@@ -35,7 +35,7 @@ def make_hyperlink(url):
 
 # Main Streamlit app
 def main():
-    st.title("Rental Listings from Magic Bricks")
+    st.title("Chennai Rental Listings from Magic Bricks")
 
     # Load JSON data and extract coordinates
     json_data = load_json_data('clean_data.json')
