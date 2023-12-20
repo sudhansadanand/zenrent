@@ -2,8 +2,8 @@ import streamlit as st
 import folium
 from streamlit_folium import st_folium, folium_static
 import json
-import geocoder
-from openai import OpenAI
+#import geocoder
+#from openai import OpenAI
 import pandas as pd
 import os
 import time
