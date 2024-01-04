@@ -60,7 +60,10 @@ def main():
     # Filter the DataFrame based on the selected minimum value
     df['bedroom'].fillna(0, inplace=True)
     #df['address']['addressLocality'].fillna("na", inplace=True)
-    df['bedroom'] = df['bedroom'].astype(int)
+    try:
+        df['bedroom'] = df['bedroom'].astype(int)
+    except ValueError as error:
+        print(error)
     #st.table(df)
 
     bed_data = df[df["bedroom"] == num_beds]
