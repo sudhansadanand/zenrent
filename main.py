@@ -90,9 +90,9 @@ def main():
 
     # Display filtered data
     if locality != "All":
-        cols_to_display = ['Availability','Floor','bedroom','bathroom','rent','Tenant_Preference','Carpet_Area','Balcony','Car_Parking','url']
+        cols_to_display = ['Availability','Floor','bedroom','bathroom','rent','Tenant_Preferred','Carpet_Area','Balcony','Car_Parking','url']
     else:
-        cols_to_display = ['locality', 'Availability', 'Floor', 'bedroom', 'bathroom', 'rent', 'Tenant_Preference', 'Carpet_Area',
+        cols_to_display = ['locality', 'Availability', 'Floor', 'bedroom', 'bathroom', 'rent', 'Tenant_Preferred', 'Carpet_Area',
                            'Balcony', 'Car_Parking', 'url']
 
     filtered_cols = map_data[cols_to_display]
