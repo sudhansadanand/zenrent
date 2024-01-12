@@ -38,7 +38,7 @@ def main():
     st.title("Chennai Rental Listings from Magic Bricks")
 
     # Load JSON data and extract coordinates
-    json_data = load_json_data('clean_data.json')
+    json_data = load_json_data('clean_mb_data.json')
     st.write(str(len(json_data))+" total listings.")
     localities = ["All"]
     localities.extend(get_localities(json_data))
@@ -90,10 +90,9 @@ def main():
 
     # Display filtered data
     if locality != "All":
-        cols_to_display = ['Availability','Floor','bedroom','bathroom','rent','Tenant_Preferred','Carpet_Area','Balcony','Car_Parking','url']
+        cols_to_display = ['prop_type','society_name','summary_Availability','summary_Super_Area','summary_Furnishing','summary_Floor','summary_facing','bedroom','bathroom','balcony','rent','cost_monthly_maintenance','cost_security_deposit','cost_brokerage','summary_Tenant_Preferred','summary_Car_Parking','url']
     else:
-        cols_to_display = ['locality', 'Availability', 'Floor', 'bedroom', 'bathroom', 'rent', 'Tenant_Preferred', 'Carpet_Area',
-                           'Balcony', 'Car_Parking', 'url']
+        cols_to_display = ['locality','society_name', 'prop_type','summary_Availability','summary_Super_Area','summary_Furnishing','summary_Floor','summary_facing','bedroom','bathroom','balcony', 'rent','cost_monthly_maintenance','cost_security_deposit','cost_brokerage','summary_Tenant_Preferred','summary_Car_Parking','url']
 
     filtered_cols = map_data[cols_to_display]
 
@@ -107,14 +106,14 @@ def main():
 
         # Create a map centered at a specific location
         time.sleep(3)
-        m = folium.Map(location=[vis_data[0]['latitude'], vis_data[0]['longitude']], zoom_start=12)
+        m = folium.Map(location=[vis_data[0]['geo_latitude'], vis_data[0]['geo_longitude']], zoom_start=12)
 
         # Add markers for each coordinate
         for entry in vis_data:
             popup_str = "{" + str(entry['bedroom']) + " BHK, Rs " + str(entry['rent']) + "}"
             # popup=f"({entry['geo']['latitude']}, {entry['geo']['longitude']})"
             folium.Marker(
-                location=[entry['latitude'], entry['longitude']],
+                location=[entry['geo_latitude'], entry['geo_longitude']],
 
                 popup='<a href="'+str(entry['url'])+'" target="_blank">Link</a>'
             ).add_to(m)
