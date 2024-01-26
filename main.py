@@ -11,13 +11,13 @@ import sys
 
 # Load data from the JSON file
 
-@st.cache
+@st.cache_data
 def load_json_data(file_path):
     with open(file_path, 'r') as json_file:
         json_data = json.load(json_file)
     return json_data
 
-@st.cache
+@st.cache_data
 def get_localities(listings):
     localities = []
 
@@ -29,16 +29,24 @@ def get_localities(listings):
     return localities
 
 # Define a function to format a cell as a hyperlink
-@st.cache
+@st.cache_data
 def make_hyperlink(url):
     return f'<a href="{url}" target="_blank">Link</a>'
 
 # Main Streamlit app
 def main():
-    st.title("Chennai Rental Listings from Magic Bricks")
+    # Configure the page layout
+    st.set_page_config(
+        page_title="Chennai Rental Listings from Magic Bricks",
+        page_icon=":rocket:",
+        layout="wide",  # You can use "wide" or "centered" for the layout
+        initial_sidebar_state="expanded",  # "auto" or "expanded" or "collapsed"
+    )
+
+    #st.title("Chennai Rental Listings from Magic Bricks")
 
     # Load JSON data and extract coordinates
-    json_data = load_json_data('clean_mb_data.json')
+    json_data = load_json_data('final_mb_data.json')
     st.write(str(len(json_data))+" total listings.")
     localities = ["All"]
     localities.extend(get_localities(json_data))
@@ -52,11 +60,19 @@ def main():
     lowest_rent = df['rent'].min()
     highest_rent = df['rent'].max()
 
-    rent_options = ["Less than 20K", "20K - 40K", "40K - 60K", "Above 60K", "Any"]
-    rent_option = st.radio("Select your Rent Range", rent_options)
+    rent_options = ["Any", "Less than 20K", "20K - 40K", "40K - 60K", "Above 60K"]
+    col1, col2, col3  = st.columns(3)
 
-    num_beds = st.slider("Bedrooms", min_value=1, max_value=5, step=1)
-    locality = st.selectbox("Locality:", localities, localities.index(default_option))
+    with col1:
+        rent_option = st.radio("Select your Rent Range", rent_options)
+
+    bed_options = ["Any", "1", "2", "3", "4", "5+"]
+    with col2:
+        num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
+
+    with col3:
+        locality = st.selectbox("Locality:", localities, localities.index(default_option))
+
     # Filter the DataFrame based on the selected minimum value
     df['bedroom'].fillna(0, inplace=True)
     #df['address']['addressLocality'].fillna("na", inplace=True)
@@ -66,7 +82,13 @@ def main():
         print(error)
     #st.table(df)
 
-    bed_data = df[df["bedroom"] == num_beds]
+    if num_beds != "Any":
+        if num_beds != "5+":
+            bed_data = df[df["bedroom"] == int(num_beds)]
+        else:
+            bed_data = df[df["bedroom"] > 4]
+    else:
+        bed_data = df
     if rent_option == "Less than 20K":
         filtered_data = bed_data[bed_data["rent"] < 20000]
     elif rent_option == "20K - 40K":
