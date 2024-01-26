@@ -46,7 +46,7 @@ def main():
     #st.title("Chennai Rental Listings from Magic Bricks")
 
     # Load JSON data and extract coordinates
-    json_data = load_json_data('final_mb_data.json')
+    json_data = load_json_data('clean_mb_data.json')
     st.write(str(len(json_data))+" total listings.")
     localities = ["All"]
     localities.extend(get_localities(json_data))
