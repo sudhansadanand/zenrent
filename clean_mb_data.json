@@ -65,7 +65,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "5,00,000",
         "cost_brokerage": "85,000",
-        "locality": "134."
+        "locality": "Egmore"
     },
     {
         "title": "3 BHK Apartment for Rent in Egattur Chennai",
@@ -99,7 +99,7 @@
         "cost_monthly_maintenance": "4",
         "cost_security_deposit": "7,00,000",
         "cost_brokerage": "1,25,000",
-        "locality": "Buckingham Street hiranandani omr Chennai"
+        "locality": "Egattur"
     },
     {
         "title": "3 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -132,7 +132,7 @@
         "cost_security_deposit": "20,00,000",
         "cost_brokerage": "2,50,000",
         "age_of_property": "New Construction",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "1 BHK Apartment for Rent in Chetpet Chennai",
@@ -163,7 +163,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "65,000",
-        "locality": "chetpet"
+        "locality": "Chetpet"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -286,7 +286,7 @@
         "cost_rent": "26,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "121"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Thiruverkadu Chennai",
@@ -368,7 +368,7 @@
         "cost_rent": "24,000",
         "cost_security_deposit": "48,000",
         "age_of_property": "Less than 5 years",
-        "locality": "11 noombal main road"
+        "locality": "Vanagaram"
     },
     {
         "title": "2 BHK Apartment for Rent in MRG FOUNDATIONS Chennai",
@@ -398,7 +398,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "No 98"
+        "locality": "Kattupakkam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Nungambakkam Chennai",
@@ -431,7 +431,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "10,00,000",
         "cost_brokerage": "1,00,000",
-        "locality": "Chennai"
+        "locality": "Nungambakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Nehru Nagar Thuraipakkam Chennai",
@@ -460,7 +460,7 @@
         "cost_rent": "12,700",
         "cost_security_deposit": "27,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Nehru Nagar Thuraipakkam"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Kundrathur Chennai",
@@ -491,7 +491,7 @@
         "cost_rent": "11,000",
         "cost_monthly_maintenance": "1,170",
         "cost_security_deposit": "50,000",
-        "locality": "Hari Hara Apartment."
+        "locality": "Kundrathur"
     },
     {
         "title": "3 BHK Apartment for Rent in Guindy Chennai",
@@ -575,7 +575,7 @@
         "balcony": "1",
         "cost_rent": "50,000",
         "cost_security_deposit": "25,000",
-        "locality": "3 BHK Flat No F Door No 1102 11th Floor Taisha Park Natesan Nagar Virugambakkam Chennai"
+        "locality": "Madhavaram"
     },
     {
         "title": "2 BHK Apartment for Rent in Pattara Vakkam Chennai",
@@ -605,7 +605,7 @@
         "cost_rent": "14,500",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "7,500",
-        "locality": "2 BHK Plot No 447 2nd Floor Sri Gajalakshhmi sundaramurrthy st ganamurthy nagar station road Pattara Vakkam Chennai"
+        "locality": "Patara Vakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Mambakkam Sriperumbudur Chennai",
@@ -631,7 +631,7 @@
         "balcony": "",
         "cost_rent": "19,100",
         "cost_security_deposit": "42,000",
-        "locality": "Mambakkam Sriperumbudur"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "3 BHK Apartment for Rent in T Nagar Chennai",
@@ -663,7 +663,7 @@
         "cost_rent": "1,00,000",
         "cost_security_deposit": "10,00,000",
         "cost_brokerage": "1,00,000",
-        "locality": "1."
+        "locality": "T Nagar"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Panaiyur Chennai",
@@ -693,7 +693,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "3,50,000",
-        "locality": "1BHK Apartment Ground floor flat no G blue chill plot no 43 1st avenue sea Shore town ECR road  panaiyur Chennai."
+        "locality": "Panaiyur"
     },
     {
         "title": "3 BHK Apartment for Rent in Pallavaram Chennai",
@@ -726,7 +726,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "40,000",
-        "locality": "pallavaram"
+        "locality": "Pallavaram"
     },
     {
         "title": "2 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -827,7 +827,7 @@
         "cost_monthly_maintenance": "10",
         "cost_security_deposit": "21,00,000",
         "cost_brokerage": "Brokerage No brokerage",
-        "locality": "Nungambakkam High Road."
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Boat Club Road Chennai",
@@ -858,7 +858,7 @@
         "balcony": "1",
         "cost_rent": "2 Lac",
         "cost_security_deposit": "4,00,000",
-        "locality": "Madras Boat Clup Road....."
+        "locality": "Boat Club Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Thiruvanmiyur Chennai",
@@ -891,7 +891,7 @@
         "cost_monthly_maintenance": "7,000",
         "cost_security_deposit": "5,10,000",
         "cost_brokerage": "90,000",
-        "locality": "Thirvanmiyur"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "2 BHK Apartment for Rent in Alwarpet Chennai",
@@ -920,7 +920,7 @@
         "cost_rent": "70,000",
         "cost_security_deposit": "1,40,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Venus colony"
+        "locality": "Alwarpet"
     },
     {
         "title": "2 BHK Apartment for Rent in Kodungaiyur Chennai",
@@ -1055,7 +1055,7 @@
         "balcony": "1",
         "cost_rent": "85,000",
         "cost_security_deposit": "5,00,000",
-        "locality": "Egattur . marina mall"
+        "locality": "Egattur"
     },
     {
         "title": "3 BHK Apartment for Rent in Grand Southern Trunk Road Chennai",
@@ -1084,7 +1084,7 @@
         "balcony": "3",
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "2,500",
-        "locality": "Shriram Park63 Tower 9 Flat No. 506"
+        "locality": "Potheri"
     },
     {
         "title": "2 BHK Apartment for Rent in Thatchoor Chennai",
@@ -1114,7 +1114,7 @@
         "balcony": "1",
         "cost_rent": "42,000",
         "cost_security_deposit": "84,000",
-        "locality": " 404"
+        "locality": "Poneri"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Thiruverkadu Chennai",
@@ -1170,7 +1170,7 @@
         "cost_rent": "9,400",
         "cost_security_deposit": "20,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Nallambakkam"
+        "locality": "Nalambakkam"
     },
     {
         "title": "4 BHK Builder Floor for Rent in Kotturpuram Chennai",
@@ -1234,7 +1234,7 @@
         "cost_rent": "33,000",
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,00,000",
-        "locality": "Raghupathi nagar 6th Street"
+        "locality": "Nanganalur"
     },
     {
         "title": "5 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -1265,7 +1265,7 @@
         "balcony": "3",
         "cost_rent": "6,00,000",
         "cost_brokerage": "6,00,000",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Besant Nagar Chennai",
@@ -1299,7 +1299,7 @@
         "cost_monthly_maintenance": "3,000",
         "cost_brokerage": "55,000",
         "age_of_property": "Less than 5 years",
-        "locality": "near coastal road"
+        "locality": "Besant Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Mylapore Chennai",
@@ -1364,7 +1364,7 @@
         "cost_rent": "1,50,000",
         "cost_monthly_maintenance": "20,000",
         "cost_security_deposit": "9,00,000",
-        "locality": "Tulive Ecstasea"
+        "locality": "East Coast Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Mylapore Chennai",
@@ -1395,7 +1395,7 @@
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "2,50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "nearby kaveri hospital"
+        "locality": "Mylapore"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -1427,7 +1427,7 @@
         "cost_rent": "30,000",
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "Brokerage (20 days)\u20b920,000",
-        "locality": "Old Mahabalipuram Rd"
+        "locality": "Padur"
     },
     {
         "title": "3 BHK Apartment for Rent in Alwarpet Chennai",
@@ -1461,7 +1461,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "65,000",
         "age_of_property": "10 to 15 years",
-        "locality": "st mars rdb"
+        "locality": "Alwarpet"
     },
     {
         "title": "5 BHK Apartment for Rent in Navalur Chennai",
@@ -1492,7 +1492,7 @@
         "cost_security_deposit": "20,000",
         "cost_brokerage": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "radiance mandarin"
+        "locality": "Navalur"
     },
     {
         "title": "3 BHK Apartment for Rent in MRC Nagar Chennai",
@@ -1526,7 +1526,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "82,000",
         "age_of_property": "Less than 5 years",
-        "locality": "chettinad school"
+        "locality": "MRC Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Thoraipakkam Chennai",
@@ -1560,7 +1560,7 @@
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "35,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Thuripakkam OMR Chennai"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Iyyappanthangal Chennai",
@@ -1593,7 +1593,7 @@
         "cost_monthly_maintenance": "7,300",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Thayyur"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "4 BHK Apartment for Rent in Iyyappanthangal Chennai",
@@ -1626,7 +1626,7 @@
         "cost_monthly_maintenance": "8,500",
         "cost_security_deposit": "5,00,000",
         "cost_brokerage": "65,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "1 BHK Apartment for Rent in Annanagar East Chennai",
@@ -1658,7 +1658,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,10,000",
         "cost_brokerage": "21,000",
-        "locality": "Annanagar East"
+        "locality": "Annagar East"
     },
     {
         "title": "4 BHK Apartment for Rent in Besant Nagar Chennai",
@@ -1691,7 +1691,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,00,000",
-        "locality": "2 nd avenue"
+        "locality": "Besant Nagar"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Kottivakkam Chennai",
@@ -1724,7 +1724,7 @@
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "32,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Kottivakkam"
+        "locality": "Kotivakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Korattur Chennai",
@@ -1758,7 +1758,7 @@
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "38,000",
         "age_of_property": "New Construction",
-        "locality": "korattur main road korattur"
+        "locality": "Korattur"
     },
     {
         "title": "4 BHK Apartment for Rent in Egmore Chennai",
@@ -1826,7 +1826,7 @@
         "cost_security_deposit": "2,50,000",
         "cost_brokerage": "42,000",
         "age_of_property": "5 to 10 years",
-        "locality": "9th cross street"
+        "locality": "RA Puram"
     },
     {
         "title": "3 BHK Apartment for Rent in Adyar Chennai",
@@ -1890,7 +1890,7 @@
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "1,62,000",
         "age_of_property": "Less than 5 years",
-        "locality": "D2-401"
+        "locality": "Irandankatalai"
     },
     {
         "title": "4 BHK Apartment for Rent in Navalur Chennai",
@@ -1922,7 +1922,7 @@
         "cost_rent": "95,000",
         "cost_monthly_maintenance": "8,000",
         "cost_security_deposit": "4,50,000",
-        "locality": "Bridgewood Block"
+        "locality": "Navalur"
     },
     {
         "title": "3 BHK Apartment for Rent in KK Nagar Chennai",
@@ -2020,7 +2020,7 @@
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "25,500",
         "age_of_property": "5 to 10 years",
-        "locality": "thoraipakkam"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Kellys Road Chennai",
@@ -2054,7 +2054,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "3,50,000",
         "cost_brokerage": "35,000",
-        "locality": "Secretariat Colony"
+        "locality": "Kelys Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -2088,7 +2088,7 @@
         "cost_security_deposit": "1,80,000",
         "cost_brokerage": "30,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Rajive Gandhi salai omr sholingaur Chennai south"
+        "locality": "Sholinganallur"
     },
     {
         "title": "4 BHK Apartment for Rent in Pallikaranai Chennai",
@@ -2122,7 +2122,7 @@
         "cost_monthly_maintenance": "8,000",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "38,000",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "2 BHK Apartment for Rent in Anna Nagar West Chennai",
@@ -2155,7 +2155,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "30,000",
-        "locality": "Anna nagar"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Mandaveli Chennai",
@@ -2185,7 +2185,7 @@
         "cost_monthly_maintenance": "7,500",
         "cost_security_deposit": "4,20,000",
         "age_of_property": "New Construction",
-        "locality": "Chennai"
+        "locality": "Mandaveli"
     },
     {
         "title": "3 BHK Apartment for Rent in Kandigai Chennai",
@@ -2247,7 +2247,7 @@
         "balcony": "3",
         "cost_rent": "75,000",
         "cost_security_deposit": "1,50,000",
-        "locality": "Anna Nagar Shanthi colony"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Raja Annamalai Puram Chennai",
@@ -2281,7 +2281,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "65,000",
         "age_of_property": "5 to 10 years",
-        "locality": "near billroth hospital"
+        "locality": "RA Puram"
     },
     {
         "title": "2 BHK Apartment for Rent in Ramapuram Chennai",
@@ -2314,7 +2314,7 @@
         "cost_security_deposit": "1,25,000",
         "cost_brokerage": "30,000",
         "age_of_property": "5 to 10 years",
-        "locality": "near Ramapuram arasamaram junction"
+        "locality": "Ramapuram"
     },
     {
         "title": "4 BHK Apartment for Rent in Boat Club Road Chennai",
@@ -2344,7 +2344,7 @@
         "balcony": "2",
         "cost_rent": "2 Lac",
         "cost_security_deposit": "4,00,000",
-        "locality": "Madras. Boat Club  near crown plaza  hotel"
+        "locality": "Boat Club Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Kolathur Chennai",
@@ -2377,7 +2377,7 @@
         "cost_monthly_maintenance": "3,200",
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "28,000",
-        "locality": "Retteri Kolathur"
+        "locality": "Kolathur"
     },
     {
         "title": "1 BHK Apartment for Rent in Thoraipakkam Chennai",
@@ -2532,7 +2532,7 @@
         "cost_rent": "15,000",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "50,000",
-        "locality": "No 41 G1 A block Ground Floor Happy HomesShine Shelter Flats   moulivakkam Chennai"
+        "locality": "Moulivakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Vadapalani Chennai",
@@ -2595,7 +2595,7 @@
         "cost_rent": "27,000",
         "cost_monthly_maintenance": "2,830",
         "cost_security_deposit": "1,00,000",
-        "locality": "2 BHK Apartment 4th Floor Flat No 412 Mapple Block Alliance Orchid Springss Water Kanel Road Korattur Chennai"
+        "locality": "Korattur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ottiambakkam Chennai",
@@ -2625,7 +2625,7 @@
         "balcony": "1",
         "cost_rent": "15,000",
         "cost_security_deposit": "30,000",
-        "locality": "2BHK Apartment 1st floor flat no F2 Plot no 14 Gandhi street  Ottiambakkam Chennai."
+        "locality": "Otiambakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -2686,7 +2686,7 @@
         "cost_rent": "29,100",
         "cost_security_deposit": "64,000",
         "age_of_property": "5 to 10 years",
-        "locality": "No33 F2 Kavinaya appts"
+        "locality": "Velachery"
     },
     {
         "title": "2 BHK Apartment for Rent in Kolathur Chennai",
@@ -2739,7 +2739,7 @@
         "cost_rent": "18,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "New Construction",
-        "locality": "S Kolathur"
+        "locality": "Kolathur"
     },
     {
         "title": "2 BHK Apartment for Rent in Ashok Nagar Chennai",
@@ -2771,7 +2771,7 @@
         "cost_monthly_maintenance": "1,400",
         "cost_security_deposit": "60,000",
         "age_of_property": "15 to 20 years",
-        "locality": "door no 29"
+        "locality": "Ashok Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Potheri Chennai",
@@ -2801,7 +2801,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "d block"
+        "locality": "Potheri"
     },
     {
         "title": "3 BHK Apartment for Rent in Poonamallee Chennai",
@@ -2862,7 +2862,7 @@
         "cost_monthly_maintenance": "3,500",
         "cost_security_deposit": "1,75,000",
         "age_of_property": "Less than 5 years",
-        "locality": "B1 Block"
+        "locality": "Karapakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Pallavan Nagar Maduravoyal Chennai",
@@ -2891,7 +2891,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "85,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Chennai"
+        "locality": "Maduravoyal"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -3003,7 +3003,7 @@
         "balcony": "",
         "cost_rent": "1,00,000",
         "cost_security_deposit": "5,00,000",
-        "locality": "Chennai."
+        "locality": "Thoraipakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Burkit Road Chennai",
@@ -3032,7 +3032,7 @@
         "cost_monthly_maintenance": "600",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "15 to 20 years",
-        "locality": "Burkit Road"
+        "locality": "Mount Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Sriperumbudur Chennai",
@@ -3063,7 +3063,7 @@
         "cost_monthly_maintenance": "3,500",
         "cost_security_deposit": "1,80,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Nemili(B) Village"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "2 BHK Apartment for Rent in Oragadam Chennai",
@@ -3093,7 +3093,7 @@
         "cost_rent": "20,200",
         "cost_security_deposit": "44,000",
         "age_of_property": "5 to 10 years",
-        "locality": "opp to vallakottai murugan temple"
+        "locality": "Oragadam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Chromepet Chennai",
@@ -3119,7 +3119,7 @@
         "balcony": "",
         "cost_rent": "8,700",
         "cost_security_deposit": "19,000",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Nanmangalam Manikandan Nagar Chennai",
@@ -3150,7 +3150,7 @@
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Nanmangalam Manikandan Nagar"
+        "locality": "Nanmangalam"
     },
     {
         "title": "2 BHK Apartment for Rent in Kallikuppam Chennai",
@@ -3179,7 +3179,7 @@
         "cost_rent": "11,000",
         "cost_security_deposit": "24,000",
         "age_of_property": "New Construction",
-        "locality": "Mutamizh Nagar 2nd Street"
+        "locality": "Kalikuppam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -3209,7 +3209,7 @@
         "cost_rent": "65,000",
         "cost_security_deposit": "3,90,000",
         "age_of_property": "5 to 10 years",
-        "locality": "1205"
+        "locality": "Sholinganallur"
     },
     {
         "title": "1 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -3239,7 +3239,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "80,000",
         "age_of_property": "Above 20 years",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in KK Nagar Chennai",
@@ -3297,7 +3297,7 @@
         "cost_monthly_maintenance": "300",
         "cost_security_deposit": "50,000",
         "age_of_property": "New Construction",
-        "locality": "Jenila"
+        "locality": "Guduvancheri"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Valasaravakkam Chennai",
@@ -3327,7 +3327,7 @@
         "cost_rent": "16,000",
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,25,000",
-        "locality": "Flat A"
+        "locality": "Valasaravakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Karapakkam Chennai",
@@ -3386,7 +3386,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "Above 20 years",
-        "locality": "Benotaph road"
+        "locality": "Rathna Nagar"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Mylapore Chennai",
@@ -3474,7 +3474,7 @@
         "cost_rent": "60,000",
         "cost_security_deposit": "5,00,000",
         "age_of_property": "New Construction",
-        "locality": "Guindy."
+        "locality": "Guindy"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Kodambakkam Chennai",
@@ -3502,7 +3502,7 @@
         "cost_rent": "25,800",
         "cost_security_deposit": "56,000",
         "age_of_property": "15 to 20 years",
-        "locality": "Sukra Apartment 1112 Flat B"
+        "locality": "Kodambakkam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Velachery Chennai",
@@ -3530,7 +3530,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "2nd Main Road"
+        "locality": "Velachery"
     },
     {
         "title": "4 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -3609,7 +3609,7 @@
         "balcony": "",
         "cost_rent": "8,000",
         "cost_security_deposit": "16,000",
-        "locality": "Red Hills"
+        "locality": "Red Hils"
     },
     {
         "title": "3 BHK Apartment for Rent in Mogappair West Ambattur Industrial Estate Chennai",
@@ -3639,7 +3639,7 @@
         "balcony": "1",
         "cost_rent": "28,000",
         "cost_security_deposit": "56,000",
-        "locality": "KG Signature City"
+        "locality": "Mogappair"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Pammal Chennai",
@@ -3721,7 +3721,7 @@
         "balcony": "",
         "cost_rent": "18,600",
         "cost_security_deposit": "40,000",
-        "locality": "CIT Nagar"
+        "locality": "T Nagar"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Avadi Chennai",
@@ -3775,7 +3775,7 @@
         "balcony": "",
         "cost_rent": "42,000",
         "cost_security_deposit": "84,000",
-        "locality": "Hiranandani Complex"
+        "locality": "Egattur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Annanur Chennai",
@@ -3824,7 +3824,7 @@
         "rent": 32000,
         "cost_rent": "32,000",
         "cost_security_deposit": "64,000",
-        "locality": "Kasturba Nagar Adyar"
+        "locality": "Adyar"
     },
     {
         "title": "1 BHK Apartment for Rent in Korattur Chennai",
@@ -3995,7 +3995,7 @@
         "cost_rent": "13,500",
         "cost_security_deposit": "80,000",
         "age_of_property": "5 to 10 years",
-        "locality": "yes wee foundation 163"
+        "locality": "Thiruverkadu"
     },
     {
         "title": "3 BHK Apartment for Rent in Kelambakkam Chennai",
@@ -4076,7 +4076,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "4,200",
         "age_of_property": "10 to 15 years",
-        "locality": "Harrington Road"
+        "locality": "Harington Road"
     },
     {
         "title": "4 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -4106,7 +4106,7 @@
         "cost_rent": "2,15,000",
         "cost_monthly_maintenance": "13,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -4210,7 +4210,7 @@
         "balcony": "",
         "cost_rent": "8,000",
         "cost_security_deposit": "17,000",
-        "locality": "Moulivakkam"
+        "locality": "Moulivakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Red Hills Chennai",
@@ -4240,7 +4240,7 @@
         "cost_rent": "5,500",
         "cost_security_deposit": "11,000",
         "age_of_property": "5 to 10 years",
-        "locality": "5805"
+        "locality": "Red Hils"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -4269,7 +4269,7 @@
         "cost_rent": "35,000",
         "cost_security_deposit": "70,000",
         "age_of_property": "New Construction",
-        "locality": "padur 603103"
+        "locality": "Padur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Mevalurkuppam Chennai",
@@ -4291,7 +4291,7 @@
         "rent": 9300,
         "cost_rent": "9,300",
         "cost_security_deposit": "20,000",
-        "locality": "Mevalurkuppam"
+        "locality": "Mevalurkupam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Nungambakkam Chennai",
@@ -4320,7 +4320,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,80,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Old 2 New No 5"
+        "locality": "Nungambakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Baba Nagar Villivakkam Chennai",
@@ -4346,7 +4346,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Baba Nagar Villivakkam"
+        "locality": "Villivakkam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Moulivakkam Chennai",
@@ -4376,7 +4376,7 @@
         "cost_rent": "12,500",
         "cost_security_deposit": "50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "286"
+        "locality": "Moulivakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Perambur Chennai",
@@ -4432,7 +4432,7 @@
         "cost_rent": "17,000",
         "cost_security_deposit": "34,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Nanganallur Chennai",
@@ -4460,7 +4460,7 @@
         "balcony": "",
         "cost_rent": "50,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "No. 56"
+        "locality": "Nanganalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Mambakkam Sriperumbudur Chennai",
@@ -4489,7 +4489,7 @@
         "balcony": "1 ",
         "cost_rent": "14,000",
         "cost_security_deposit": "75,000",
-        "locality": "3BHK apartment8th floors084 SBIOA Unity Enclave Mambakkam Chennai."
+        "locality": "Sriperumbudur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Arcot Road Chennai",
@@ -4519,7 +4519,7 @@
         "balcony": "1",
         "cost_rent": "28,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "144A-3"
+        "locality": "Arcot Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Thirumudivakkam Chennai",
@@ -4549,7 +4549,7 @@
         "cost_monthly_maintenance": "2,200",
         "cost_security_deposit": "10,000",
         "age_of_property": "5 to 10 years",
-        "locality": "D 208"
+        "locality": "Thirumudivakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Tirumallaivayal Colony Chennai",
@@ -4578,7 +4578,7 @@
         "cost_rent": "11,000",
         "cost_security_deposit": "22,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Tirumallaivayal Colony"
+        "locality": "Thirumullaivoyal"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar West Chennai",
@@ -4608,7 +4608,7 @@
         "balcony": "2",
         "cost_rent": "50,500",
         "cost_security_deposit": "1,10,000",
-        "locality": "H block"
+        "locality": "Anna Nagar"
     },
     {
         "title": "1 BHK Apartment for Rent in Ashok Nagar Chennai",
@@ -4637,7 +4637,7 @@
         "cost_rent": "18,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "10 to 15 years",
-        "locality": "no 35 21st Avenue Ashok Nagar Chennai 83"
+        "locality": "Ashok Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Teynampet Chennai",
@@ -4666,7 +4666,7 @@
         "cost_monthly_maintenance": "8,500",
         "cost_security_deposit": "3,60,000",
         "age_of_property": "New Construction",
-        "locality": "Flat 2C Coral Reef Apartments"
+        "locality": "Teynampet"
     },
     {
         "title": "3 BHK Penthouse for Rent in Saligramam Chennai",
@@ -4695,7 +4695,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "New Construction",
-        "locality": "16 floor"
+        "locality": "Saligramam"
     },
     {
         "title": "2 BHK Apartment for Rent in Pallikaranai Chennai",
@@ -4725,7 +4725,7 @@
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "65,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "3 BHK Apartment for Rent in Mogappair East Chennai",
@@ -4755,7 +4755,7 @@
         "cost_rent": "23,000",
         "cost_security_deposit": "51,000",
         "age_of_property": "Above 20 years",
-        "locality": "89 Navarathna Apartments"
+        "locality": "Mogappair East"
     },
     {
         "title": "2 BHK Apartment for Rent in Adambakkam Chennai",
@@ -4783,7 +4783,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "15 to 20 years",
-        "locality": "121Muruga flats New colony 11th street extn"
+        "locality": "Adambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Shankar Nagar Pammal Chennai",
@@ -4813,7 +4813,7 @@
         "balcony": "2",
         "cost_rent": "33,000",
         "cost_security_deposit": "66,000",
-        "locality": "3BHK Apartment  2nd floor  flat no BS1 Muthu Apartment  Temple Town road  Shankar nagar  Pammal Chennai."
+        "locality": "Pammal"
     },
     {
         "title": "1 BHK Apartment for Rent in GKM Colony Kolathur Chennai",
@@ -4843,7 +4843,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "New Construction",
-        "locality": "GKM Colony Kolathur"
+        "locality": "Kolathur"
     },
     {
         "title": "1 BHK Apartment for Rent in Vannanthurai Chennai",
@@ -4872,7 +4872,7 @@
         "cost_rent": "14,900",
         "cost_security_deposit": "32,000",
         "age_of_property": "Above 20 years",
-        "locality": "Vannanthurai"
+        "locality": "Vananthurai"
     },
     {
         "title": "2 BHK Apartment for Rent in Navalur Chennai",
@@ -4931,7 +4931,7 @@
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Thalambur-sipcot road"
+        "locality": "Navalur"
     },
     {
         "title": "2 BHK Apartment for Rent in Semmancheri Chennai",
@@ -4961,7 +4961,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Senneer Kuppam"
+        "locality": "Semancheri"
     },
     {
         "title": "1 BHK Apartment for Rent in Kovilambakkam Chennai",
@@ -4992,7 +4992,7 @@
         "cost_monthly_maintenance": "700",
         "cost_security_deposit": "50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "kavimani nagar 1st street"
+        "locality": "Kovilambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Adyar Chennai",
@@ -5042,7 +5042,7 @@
         "rent": 8000,
         "cost_rent": "8,000",
         "cost_security_deposit": "16,000",
-        "locality": "Kovilambakkam"
+        "locality": "Kovilambakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Manapakkam Chennai",
@@ -5071,7 +5071,7 @@
         "balcony": "3",
         "cost_rent": "16,500",
         "cost_monthly_maintenance": "700",
-        "locality": "G12."
+        "locality": "Manapakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Manapakkam Chennai",
@@ -5102,7 +5102,7 @@
         "cost_monthly_maintenance": "5,325",
         "cost_security_deposit": "50,000",
         "age_of_property": "15 to 20 years",
-        "locality": "Manapakkam"
+        "locality": "Manapakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -5133,7 +5133,7 @@
         "cost_rent": "50,000",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "Brokerage (15 days)\u20b925,000",
-        "locality": "Casagrand ROYALE"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in Gopalapuram Chennai",
@@ -5196,7 +5196,7 @@
         "cost_monthly_maintenance": "11,000",
         "cost_security_deposit": "5,25,000",
         "age_of_property": "5 to 10 years",
-        "locality": "nearby bhavans School"
+        "locality": "Kilpauk"
     },
     {
         "title": "2 BHK Apartment for Rent in Ambattur Chennai",
@@ -5262,7 +5262,7 @@
         "cost_monthly_maintenance": "13,000",
         "cost_security_deposit": "10,00,000",
         "cost_brokerage": "1,65,000",
-        "locality": "1313"
+        "locality": "Velachery"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Kottivakkam Chennai",
@@ -5295,7 +5295,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "35,000",
-        "locality": "kottivakkam"
+        "locality": "Kotivakkam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Kilpauk Chennai",
@@ -5358,7 +5358,7 @@
         "cost_monthly_maintenance": "5,800",
         "cost_security_deposit": "1,75,000",
         "cost_brokerage": "50,000",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -5391,7 +5391,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "7,00,000",
         "cost_brokerage": "70,000",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Ashok Nagar Chennai",
@@ -5451,7 +5451,7 @@
         "balcony": "1",
         "cost_rent": "3 Lac",
         "cost_security_deposit": "6,00,000",
-        "locality": "5BHK Apartment  1st floor  Flat no 106 TVH Quadrant Apartment  LB Road  Adyar Chennai."
+        "locality": "Adyar"
     },
     {
         "title": "3 BHK Apartment for Rent in Chinmaya Nagar Chennai",
@@ -5515,7 +5515,7 @@
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,00,000",
         "age_of_property": "New Construction",
-        "locality": "spencer besant nagar"
+        "locality": "Besant Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -5580,7 +5580,7 @@
         "cost_security_deposit": "10,00,000",
         "cost_brokerage": "1,40,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Melrose park"
+        "locality": "Nelankarai"
     },
     {
         "title": "3 BHK Apartment for Rent in Nandanam Chennai",
@@ -5643,7 +5643,7 @@
         "cost_rent": "20,000",
         "cost_monthly_maintenance": "4,500",
         "cost_security_deposit": "95,000",
-        "locality": "Semmancheri"
+        "locality": "Semancheri"
     },
     {
         "title": "2 BHK Apartment for Rent in Thoraipakkam Chennai",
@@ -5705,7 +5705,7 @@
         "cost_rent": "40,000",
         "cost_monthly_maintenance": "2,000",
         "age_of_property": "Less than 5 years",
-        "locality": "1056 G Block"
+        "locality": "Annagar East"
     },
     {
         "title": "2 BHK Apartment for Rent in Kamaraj Avenue Chennai",
@@ -5764,7 +5764,7 @@
         "cost_rent": "70,006",
         "cost_security_deposit": "7,000",
         "age_of_property": "Less than 5 years",
-        "locality": "2nd Street Highways Nagar"
+        "locality": "Perumbakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -5821,7 +5821,7 @@
         "balcony": "",
         "cost_rent": "11,000",
         "cost_security_deposit": "22,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Thirumullaivoyal Chennai",
@@ -5850,7 +5850,7 @@
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
         "age_of_property": "New Construction",
-        "locality": "Manikandapuram"
+        "locality": "Thirumullaivoyal"
     },
     {
         "title": "3 BHK Apartment for Rent in Egattur Chennai",
@@ -5917,7 +5917,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "9,60,000",
         "cost_brokerage": "1,60,000",
-        "locality": "1."
+        "locality": "Mylapore"
     },
     {
         "title": "4 BHK Apartment for Rent in Pallikaranai Chennai",
@@ -5949,7 +5949,7 @@
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "4,20,000",
         "cost_brokerage": "Brokerage No brokerage",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "3 BHK Apartment for Rent in Varadharajapuram Chennai",
@@ -5978,7 +5978,7 @@
         "cost_monthly_maintenance": "6,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "A4-3  A4-4 Ruby Landmark Vandalur-Padappai Highway"
+        "locality": "Vandalur"
     },
     {
         "title": "3 BHK Apartment for Rent in T Nagar Chennai",
@@ -6012,7 +6012,7 @@
         "cost_security_deposit": "6",
         "cost_brokerage": "32,000",
         "age_of_property": "Less than 5 years",
-        "locality": "near south dhandapani street"
+        "locality": "T Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in T Nagar Chennai",
@@ -6045,7 +6045,7 @@
         "cost_monthly_maintenance": "3,500",
         "cost_security_deposit": "3,60,000",
         "cost_brokerage": "60,000",
-        "locality": "T nagar."
+        "locality": "T Nagar"
     },
     {
         "title": "4 BHK Penthouse for Rent in Anna Nagar Chennai",
@@ -6107,7 +6107,7 @@
         "balcony": "1",
         "cost_rent": "60,000",
         "cost_brokerage": "60,000",
-        "locality": "Anna Nagar West"
+        "locality": "Anna Nagar"
     },
     {
         "title": "4 BHK Apartment for Rent in Kotturpuram Chennai",
@@ -6139,7 +6139,7 @@
         "cost_rent": "2,00,000",
         "cost_security_deposit": "12,00,000",
         "cost_brokerage": "2,00,000",
-        "locality": "kotturpuram"
+        "locality": "Kotturpuram"
     },
     {
         "title": "4 BHK Apartment for Rent in Avvai Nagar Thiruvanmiyur Chennai",
@@ -6171,7 +6171,7 @@
         "cost_security_deposit": "5,00,000",
         "cost_brokerage": "Brokerage No brokerage",
         "age_of_property": "New Construction",
-        "locality": "Avvai Nagar Thiruvanmiyur"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "3 BHK Apartment for Rent in Thiruvanmiyur Chennai",
@@ -6205,7 +6205,7 @@
         "cost_security_deposit": "3,90,000",
         "cost_brokerage": "68,000",
         "age_of_property": "Less than 5 years",
-        "locality": "valmekenagar sec ward road ceepros"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "3 BHK Apartment for Rent in Shastri Nagar Adyar Chennai",
@@ -6236,7 +6236,7 @@
         "cost_rent": "52,000",
         "cost_security_deposit": "1,04,000",
         "age_of_property": "New Construction",
-        "locality": "1st Avenue"
+        "locality": "Adyar"
     },
     {
         "title": "4 BHK Apartment for Rent in Egmore Chennai",
@@ -6268,7 +6268,7 @@
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Ethiraj salai"
+        "locality": "Egmore"
     },
     {
         "title": "2 BHK Apartment for Rent in Adyar Chennai",
@@ -6329,7 +6329,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "10,00,000",
         "age_of_property": "New Construction",
-        "locality": "Boo Begum Shahib Street"
+        "locality": "GP Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Nelson Manickam Road Chennai",
@@ -6359,7 +6359,7 @@
         "balcony": "3",
         "cost_rent": "50,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "nelson manikkam road"
+        "locality": "Nelson Manickam Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar West Chennai",
@@ -6420,7 +6420,7 @@
         "balcony": "1 ",
         "cost_rent": "40,000",
         "cost_security_deposit": "80,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "3 BHK Apartment for Rent in Cenotaph Road Chennai",
@@ -6451,7 +6451,7 @@
         "cost_security_deposit": "5,00,000",
         "cost_brokerage": "55,000",
         "age_of_property": "Above 20 years",
-        "locality": "Chennai"
+        "locality": "Cenotaph Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Padur Chennai",
@@ -6576,7 +6576,7 @@
         "cost_rent": "40,000",
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "2,50,000",
-        "locality": "4BHK Apartment 4th floor Flat no 401 J Block Casagrand Zenith Apartment Mambakkam road Medavakkam Chennai."
+        "locality": "Medavakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Kotturpuram Chennai",
@@ -6639,7 +6639,7 @@
         "balcony": "2",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "16SF RagoSakthi"
+        "locality": "Keelkattalai"
     },
     {
         "title": "3 BHK Apartment for Rent in Kottivakkam Chennai",
@@ -6671,7 +6671,7 @@
         "cost_monthly_maintenance": "3,800",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "33,000",
-        "locality": "OMR"
+        "locality": "Kotivakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Navalur Chennai",
@@ -6703,7 +6703,7 @@
         "cost_security_deposit": "6,50,000",
         "cost_brokerage": "65,000",
         "age_of_property": "5 to 10 years",
-        "locality": "19."
+        "locality": "Navalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Mangadu Chennai",
@@ -6736,7 +6736,7 @@
         "cost_monthly_maintenance": "3,500",
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "25,000",
-        "locality": "Sri Pandian Nagar"
+        "locality": "Mangadu"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -6834,7 +6834,7 @@
         "cost_security_deposit": "4,00,000",
         "cost_brokerage": "65,000",
         "age_of_property": "New Construction",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -6868,7 +6868,7 @@
         "cost_monthly_maintenance": "5,500",
         "cost_security_deposit": "2,50,000",
         "cost_brokerage": "50,000",
-        "locality": "asv Alexandria sholinganallur omr rood Rajiv Gandhi Salai"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in Iyyappanthangal Chennai",
@@ -6902,7 +6902,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "40,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Apartment for Rent in Perumbakkam Chennai",
@@ -6935,7 +6935,7 @@
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "1,20,000",
         "cost_brokerage": "20,000",
-        "locality": "No  4"
+        "locality": "Perumbakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Santhome Chennai",
@@ -6968,7 +6968,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,00,000",
-        "locality": "001."
+        "locality": "Santhome"
     },
     {
         "title": "4 BHK Apartment for Rent in T Nagar Chennai",
@@ -7001,7 +7001,7 @@
         "cost_monthly_maintenance": "8,000",
         "cost_security_deposit": "7,00,000",
         "cost_brokerage": "1,30,000",
-        "locality": "Near by."
+        "locality": "T Nagar"
     },
     {
         "title": "4 BHK Builder Floor for Rent in Gandhi Nagar Adyar Chennai",
@@ -7034,7 +7034,7 @@
         "cost_security_deposit": "3,60,000",
         "cost_brokerage": "45,000",
         "age_of_property": "10 to 15 years",
-        "locality": "34"
+        "locality": "Adyar"
     },
     {
         "title": "3 BHK Apartment for Rent in Guindy Chennai",
@@ -7190,7 +7190,7 @@
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "50,000",
-        "locality": "s3"
+        "locality": "Anna Nagar"
     },
     {
         "title": "5 BHK Apartment for Rent in Kanathur Chennai",
@@ -7249,7 +7249,7 @@
         "cost_rent": "15,000",
         "cost_security_deposit": "30,000",
         "age_of_property": "5 to 10 years",
-        "locality": "No.38"
+        "locality": "Anakaputhur"
     },
     {
         "title": "3 BHK Apartment for Rent in Muthukadu Chennai",
@@ -7282,7 +7282,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "3,90,000",
         "cost_brokerage": "65,000",
-        "locality": "Muttukadu"
+        "locality": "Muthukadu"
     },
     {
         "title": "3 BHK Apartment for Rent in Chetpet Chennai",
@@ -7313,7 +7313,7 @@
         "cost_rent": "50,000",
         "cost_security_deposit": "5,00,000",
         "cost_brokerage": "50,000",
-        "locality": "chetpet"
+        "locality": "Chetpet"
     },
     {
         "title": "3 BHK Apartment for Rent in Tondiarpet Chennai",
@@ -7402,7 +7402,7 @@
         "balcony": "1",
         "cost_rent": "50,000",
         "cost_security_deposit": "25,000",
-        "locality": "3 BHK Plot No 22 Flat No 8 2nd Floor Redbrick Sri Nivas T Nagar Chennai"
+        "locality": "T Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Vandalur Chennai",
@@ -7432,7 +7432,7 @@
         "balcony": "1",
         "cost_rent": "16,000",
         "cost_security_deposit": "32,000",
-        "locality": "2BHK Apartment 5th floor Flat no 506 A Block Elements apartment Anna main road Vengambakkam Chennai."
+        "locality": "Vandalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Urapakkam Chennai",
@@ -7462,7 +7462,7 @@
         "balcony": "1",
         "cost_rent": "38,000",
         "cost_security_deposit": "2,00,000",
-        "locality": "3BHK Apartment 6th floor flat no 602 Block C3 Akshaya Belvedere Apartment  GST road  Urapakkam Chennai."
+        "locality": "Urapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ponniammanmedu Chennai",
@@ -7490,7 +7490,7 @@
         "cost_rent": "13,000",
         "cost_security_deposit": "1,20,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Pranav Shrusti"
+        "locality": "Poniammanmedu"
     },
     {
         "title": "2 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -7522,7 +7522,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "5,000",
         "age_of_property": "5 to 10 years",
-        "locality": "RA Puram Greenways Road"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in Porur Chennai",
@@ -7575,7 +7575,7 @@
         "cost_rent": "28,000",
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "1,50,000",
-        "locality": "Iyra Aadya"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Nanganallur Chennai",
@@ -7604,7 +7604,7 @@
         "cost_rent": "40,000",
         "cost_monthly_maintenance": "1,500",
         "age_of_property": "Less than 5 years",
-        "locality": "Nanganallur"
+        "locality": "Nanganalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -7659,7 +7659,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "porur garden"
+        "locality": "Poes Garden"
     },
     {
         "title": "1 BHK Apartment for Rent in Kilpauk Chennai",
@@ -7745,7 +7745,7 @@
         "balcony": "",
         "cost_rent": "24,000",
         "cost_security_deposit": "1,20,000",
-        "locality": "Venkateshapuram"
+        "locality": "Kotivakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -7916,7 +7916,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "New Construction",
-        "locality": "Lakshmi Nagar Velachery"
+        "locality": "Velachery"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Avadi Chennai",
@@ -8001,7 +8001,7 @@
         "balcony": "1",
         "cost_rent": "28,000",
         "cost_security_deposit": "56,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "3 BHK Apartment for Rent in Periyar Nagar West Perambur Chennai",
@@ -8031,7 +8031,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Periyar Nagar West Perambur"
+        "locality": "Perambur"
     },
     {
         "title": "2 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -8058,7 +8058,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Behind Nungambakkam Police Station"
+        "locality": "Nungambakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Madhanandapuram Chennai",
@@ -8085,7 +8085,7 @@
         "balcony": "2",
         "cost_rent": "17,500",
         "cost_security_deposit": "1,50,000",
-        "locality": "No 13 Kannadasan Street Shanmuga Nagar Madhanandapuram porur chennai"
+        "locality": "Madhandapuram"
     },
     {
         "title": "3 BHK Apartment for Rent in Siruseri Chennai",
@@ -8194,7 +8194,7 @@
         "cost_rent": "6,500",
         "cost_security_deposit": "25,000",
         "age_of_property": "5 to 10 years",
-        "locality": "TNHB Apartments 848 scheme"
+        "locality": "Ambattur"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Avadi Chennai",
@@ -8224,7 +8224,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "50,000",
         "age_of_property": "New Construction",
-        "locality": "Ayalcheri-Kannapalayam Rd"
+        "locality": "Avadi"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Surapet Chennai",
@@ -8254,7 +8254,7 @@
         "balcony": "2",
         "cost_rent": "15,000",
         "cost_security_deposit": "75,000",
-        "locality": "No: 1 & 2"
+        "locality": "Surapet"
     },
     {
         "title": "2 BHK Apartment for Rent in Pallikaranai Chennai",
@@ -8284,7 +8284,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "1,500",
         "age_of_property": "10 to 15 years",
-        "locality": "Orleans apartment"
+        "locality": "Palikaranai"
     },
     {
         "title": "3 BHK Apartment for Rent in Gill Nagar Chennai",
@@ -8314,7 +8314,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,50,000",
-        "locality": "Shree Mahalakshmi Enclave by Doshi"
+        "locality": "Gil Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Thoraipakkam Chennai",
@@ -8343,7 +8343,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "5 to 10 years",
-        "locality": "arunagiri palace"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Ambattur Chennai",
@@ -8373,7 +8373,7 @@
         "cost_rent": "15,000",
         "cost_monthly_maintenance": "1,800",
         "age_of_property": "5 to 10 years",
-        "locality": "Mangalam Moonlight Apartments"
+        "locality": "Ambattur"
     },
     {
         "title": "2 BHK Apartment for Rent in Broadway, George Town Chennai",
@@ -8455,7 +8455,7 @@
         "cost_monthly_maintenance": "700",
         "cost_security_deposit": "36,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Urapakkam"
+        "locality": "Urapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Sendur Puram Chennai",
@@ -8485,7 +8485,7 @@
         "cost_rent": "12,000",
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "60,000",
-        "locality": "C Block"
+        "locality": "Sendur Puram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Perumbakkam Chennai",
@@ -8513,7 +8513,7 @@
         "balcony": "",
         "cost_rent": "9,000",
         "cost_security_deposit": "18,000",
-        "locality": "Chennai"
+        "locality": "Perumbakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -8543,7 +8543,7 @@
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "301."
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in New Perungalathur Chennai",
@@ -8573,7 +8573,7 @@
         "cost_rent": "28,800",
         "cost_security_deposit": "64,000",
         "age_of_property": "New Construction",
-        "locality": "Park63"
+        "locality": "New Perungalathur"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Madhavaram Chennai",
@@ -8625,7 +8625,7 @@
         "balcony": "",
         "cost_rent": "29,000",
         "cost_security_deposit": "58,000",
-        "locality": "Valasaravakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Thiruvanmiyur Chennai",
@@ -8651,7 +8651,7 @@
         "balcony": "",
         "cost_rent": "28,000",
         "cost_security_deposit": "56,000",
-        "locality": "Chennai - South"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "4 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -8737,7 +8737,7 @@
         "cost_rent": "10,000",
         "cost_security_deposit": "20,000",
         "age_of_property": "New Construction",
-        "locality": "Plot No 17 Sudharshan Shelters S2 Mahalakshmi Nagar Extn 5th Street Madipakkam Chennai."
+        "locality": "Madipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -8824,7 +8824,7 @@
         "balcony": "2",
         "cost_rent": "18,500",
         "cost_security_deposit": "1,00,000",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kundrathur Chennai",
@@ -8880,7 +8880,7 @@
         "cost_rent": "11,000",
         "cost_security_deposit": "22,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Priya Nagar"
+        "locality": "Urapakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Muthukadu Chennai",
@@ -8909,7 +8909,7 @@
         "cost_rent": "58,500",
         "cost_security_deposit": "1,30,000",
         "age_of_property": "5 to 10 years",
-        "locality": "ECR Muthukadu"
+        "locality": "Muthukadu"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Vanagaram Chennai",
@@ -8938,7 +8938,7 @@
         "cost_rent": "18,000",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "10,000",
-        "locality": "Plot no 45 ground floor vanagaram chennai."
+        "locality": "Vanagaram"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Nazarathpettai Chennai",
@@ -8967,7 +8967,7 @@
         "cost_rent": "6,500",
         "cost_security_deposit": "30,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Nazarathpettai"
+        "locality": "Nazarathpetai"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Iyyappanthangal Chennai",
@@ -8993,7 +8993,7 @@
         "balcony": "",
         "cost_rent": "18,400",
         "cost_security_deposit": "40,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "1 BHK Apartment for Rent in Thiruporur Chennai",
@@ -9049,7 +9049,7 @@
         "cost_rent": "35,000",
         "cost_security_deposit": "70,000",
         "age_of_property": "New Construction",
-        "locality": "Mount Poonamallee Road Kattupakkam"
+        "locality": "Kattupakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Moolakadai Chennai",
@@ -9078,7 +9078,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "2,20,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Flat no. 386 d block 11 madhavaram high road chennai-600011"
+        "locality": "Molakadai"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Chinna Mathur Chennai",
@@ -9104,7 +9104,7 @@
         "balcony": "",
         "cost_rent": "5,600",
         "cost_security_deposit": "12,000",
-        "locality": "Chinna Mathur"
+        "locality": "China Mathur"
     },
     {
         "title": "2 BHK Apartment for Rent in Perumbakkam Chennai",
@@ -9134,7 +9134,7 @@
         "cost_rent": "20,500",
         "cost_security_deposit": "41,000",
         "age_of_property": "New Construction",
-        "locality": "Nookambalayam Road"
+        "locality": "Perumbakkam"
     },
     {
         "title": "1 BHK Apartment for Rent in Pozhichalur Chennai",
@@ -9164,7 +9164,7 @@
         "cost_rent": "13,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "kolathur bus stop"
+        "locality": "Pozhichalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Tulive Ecstasea, East Coast Road, Chennai,Tulive Ecstasea, East Coast Road, Chennai Chennai",
@@ -9218,7 +9218,7 @@
         "balcony": "",
         "cost_rent": "22,000",
         "cost_security_deposit": "44,000",
-        "locality": "chinmaya Nagar"
+        "locality": "Chinmaya Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Oragadam Chennai",
@@ -9299,7 +9299,7 @@
         "cost_rent": "11,000",
         "cost_monthly_maintenance": "200",
         "cost_security_deposit": "1,00,000",
-        "locality": "Madhavaram Milk Colony"
+        "locality": "Madhavaram"
     },
     {
         "title": "1 BHK Penthouse for Rent in Madhavaram Chennai",
@@ -9327,7 +9327,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "20,000",
         "age_of_property": "New Construction",
-        "locality": "plot no 23"
+        "locality": "Madhavaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Vadapalani Chennai",
@@ -9385,7 +9385,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "New Construction",
-        "locality": "thirumudivakkam"
+        "locality": "Chrompet"
     },
     {
         "title": "2 BHK Apartment for Rent in Ramalinga Nagar Ramakrishna Raja Nagar Chennai",
@@ -9416,7 +9416,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,25,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Plot No.1 and 2"
+        "locality": "Ramalinga Nagar Ramakrishna Raja Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in T Nagar Chennai",
@@ -9504,7 +9504,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "6",
         "age_of_property": "Less than 5 years",
-        "locality": "S k Nagar chettiar agaram  PORUR"
+        "locality": "Porur"
     },
     {
         "title": "3 BHK Apartment for Rent in Chetpet Chennai",
@@ -9532,7 +9532,7 @@
         "cost_rent": "50,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Above 20 years",
-        "locality": "Old No 72"
+        "locality": "Chetpet"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Royapuram Chennai",
@@ -9670,7 +9670,7 @@
         "cost_rent": "15,000",
         "cost_security_deposit": "90,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Pearl paradise apartment"
+        "locality": "Annanur"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Medavakkam Chennai",
@@ -9752,7 +9752,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Chennai - South"
+        "locality": "Thazhambur"
     },
     {
         "title": "2 BHK Apartment for Rent in Madipakkam Chennai",
@@ -9867,7 +9867,7 @@
         "balcony": "2",
         "cost_rent": "23,000",
         "cost_security_deposit": "12,000",
-        "locality": "3 BHK Plot No 23 1st Floor Stand Alone Buliding Ganga Nagar Maduravoyal Chennai"
+        "locality": "Maduravoyal"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Royapettah Chennai",
@@ -9895,7 +9895,7 @@
         "balcony": "2",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "Royapettah"
+        "locality": "Royapetah"
     },
     {
         "title": "3 BHK Apartment for Rent in Kungumam Nagar Chennai",
@@ -9926,7 +9926,7 @@
         "cost_monthly_maintenance": "1,400",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "B f  1 st  floor  venture apartment."
+        "locality": "Kungumam Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Vengaivasal Medavakkam Chennai",
@@ -9956,7 +9956,7 @@
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Thirupurasundari Apartments Gayathiri Nagar Medavakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Mudichur Chennai",
@@ -9985,7 +9985,7 @@
         "cost_rent": "8,000",
         "cost_security_deposit": "16,000",
         "age_of_property": "5 to 10 years",
-        "locality": "S1"
+        "locality": "Mudichur"
     },
     {
         "title": "2 BHK Apartment for Rent in Ponniammanmedu Chennai",
@@ -10015,7 +10015,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "Above 20 years",
-        "locality": "Anna Avenue"
+        "locality": "Poniammanmedu"
     },
     {
         "title": "2 BHK Apartment for Rent in Ayanambakkam Chennai",
@@ -10044,7 +10044,7 @@
         "cost_rent": "11,500",
         "cost_monthly_maintenance": "1,750",
         "age_of_property": "Less than 5 years",
-        "locality": "Rajyasri Nivas"
+        "locality": "Ayanambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Saligramam Chennai",
@@ -10127,7 +10127,7 @@
         "balcony": "",
         "cost_rent": "8,500",
         "cost_security_deposit": "50,000",
-        "locality": "Sudarasan Nagar"
+        "locality": "Mambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -10157,7 +10157,7 @@
         "cost_rent": "30,000",
         "cost_security_deposit": "60,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Flat No.3F"
+        "locality": "Sholinganallur"
     },
     {
         "title": "1 BHK Apartment for Rent in Aminjikarai Chennai",
@@ -10217,7 +10217,7 @@
         "cost_rent": "35,000",
         "cost_security_deposit": "3,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "apkaram street mylapore chennai"
+        "locality": "Mylapore"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Purasaiwakkam Chennai",
@@ -10271,7 +10271,7 @@
         "balcony": "",
         "cost_rent": "9,700",
         "cost_security_deposit": "21,000",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Pallikaranai Chennai",
@@ -10298,7 +10298,7 @@
         "balcony": "",
         "cost_rent": "23,000",
         "cost_security_deposit": "46,000",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Velachery Chennai",
@@ -10380,7 +10380,7 @@
         "cost_rent": "50,000",
         "cost_security_deposit": "2,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Aishwarya Prapanca"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Balaji Avenue Chennai",
@@ -10412,7 +10412,7 @@
         "cost_rent": "10,000",
         "cost_monthly_maintenance": "750",
         "cost_security_deposit": "50,000",
-        "locality": "A wingplot no23"
+        "locality": "Balaji Avenue"
     },
     {
         "title": "1 BHK Penthouse for Rent in Kolathur Chennai",
@@ -10472,7 +10472,7 @@
         "cost_rent": "23,500",
         "cost_security_deposit": "50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Lancor Central Park South"
+        "locality": "Sholinganallur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Urapakkam Chennai",
@@ -10501,7 +10501,7 @@
         "cost_rent": "7,700",
         "cost_security_deposit": "17,000",
         "age_of_property": "Less than 5 years",
-        "locality": "urapakkam"
+        "locality": "Urapakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Thillaiganga Nagar Chennai",
@@ -10530,7 +10530,7 @@
         "cost_rent": "23,000",
         "cost_monthly_maintenance": "350",
         "age_of_property": "15 to 20 years",
-        "locality": "Thillaiganga Nagar"
+        "locality": "Thilaiganga Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Chromepet Chennai",
@@ -10559,7 +10559,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Hasthinapuram"
+        "locality": "Chrompet"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Salamangalam Chennai",
@@ -10589,7 +10589,7 @@
         "cost_rent": "8,000",
         "cost_security_deposit": "16,000",
         "age_of_property": "5 to 10 years",
-        "locality": "no 482 Lakshmi nagar"
+        "locality": "Salamangalam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sir Thyagaraya Road Chennai",
@@ -10678,7 +10678,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "26 Murugesan Street"
+        "locality": "Rangarajapuram West Mambalam"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -10735,7 +10735,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,75,000",
         "age_of_property": "New Construction",
-        "locality": "srinivasa nagar 1st street Selaiyur  near Bharath university"
+        "locality": "Tambaram"
     },
     {
         "title": "2 BHK Apartment for Rent in Sterling Road Chennai",
@@ -10794,7 +10794,7 @@
         "cost_rent": "15,000",
         "cost_security_deposit": "30,000",
         "age_of_property": "5 to 10 years",
-        "locality": "33 SKB sorgam flat"
+        "locality": "Palikaranai"
     },
     {
         "title": "2 BHK Apartment for Rent in Potheri Chennai",
@@ -10854,7 +10854,7 @@
         "cost_rent": "65,000",
         "cost_monthly_maintenance": "7,500",
         "cost_security_deposit": "3,60,000",
-        "locality": "801."
+        "locality": "Navalur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Padur Chennai",
@@ -10884,7 +10884,7 @@
         "cost_rent": "12,200",
         "cost_security_deposit": "26,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Shamira flats  PADUR NEXT TO CDM CHURCH  IMPERIAL GARDEN MARRIAGE HALL"
+        "locality": "Padur"
     },
     {
         "title": "2 BHK Apartment for Rent in Ambattur Chennai",
@@ -10943,7 +10943,7 @@
         "cost_monthly_maintenance": "1,400",
         "cost_security_deposit": "50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Kannivakkam"
+        "locality": "Guduvancheri"
     },
     {
         "title": "2 BHK Apartment for Rent in Anna Nagar West Extension Chennai",
@@ -10970,7 +10970,7 @@
         "balcony": "",
         "cost_rent": "22,000",
         "cost_security_deposit": "44,000",
-        "locality": "Anna Nagar West Extension"
+        "locality": "Anna Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Kodambakkam Chennai",
@@ -11051,7 +11051,7 @@
         "balcony": "",
         "cost_rent": "13,800",
         "cost_security_deposit": "30,000",
-        "locality": "Kulattur"
+        "locality": "Kulatur"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Kallikuppam Chennai",
@@ -11079,7 +11079,7 @@
         "cost_rent": "5,000",
         "cost_security_deposit": "20,000",
         "age_of_property": "New Construction",
-        "locality": "Kallikuppam"
+        "locality": "Kalikuppam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Perumbakkam Chennai",
@@ -11163,7 +11163,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,60,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Chengalpattu"
+        "locality": "Chengalpatu"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Arumbakkam Chennai",
@@ -11191,7 +11191,7 @@
         "balcony": "1",
         "cost_rent": "30,000",
         "cost_security_deposit": "3,00,000",
-        "locality": "Arumbakkam"
+        "locality": "Arumbakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Korattur Chennai",
@@ -11439,7 +11439,7 @@
         "balcony": "1",
         "cost_rent": "14,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "Tiruvottiyur"
+        "locality": "Tiruvotiyur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Madipakkam Chennai",
@@ -11521,7 +11521,7 @@
         "balcony": "",
         "cost_rent": "18,000",
         "cost_security_deposit": "36,000",
-        "locality": "Kilpauk Garden Colony"
+        "locality": "Kilpauk"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Perungudi Chennai",
@@ -11717,7 +11717,7 @@
         "balcony": "",
         "cost_rent": "35,000",
         "cost_security_deposit": "70,000",
-        "locality": "Red Hills"
+        "locality": "Red Hils"
     },
     {
         "title": "2 BHK Apartment for Rent in Kolathur Chennai",
@@ -11798,7 +11798,7 @@
         "balcony": "",
         "cost_rent": "7,000",
         "cost_security_deposit": "14,000",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "2 BHK Apartment for Rent in Muthukadu Chennai",
@@ -11887,7 +11887,7 @@
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Ksr Nagar Ambattur"
+        "locality": "Ksr Nagar"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Porur Chennai",
@@ -11968,7 +11968,7 @@
         "balcony": "",
         "cost_rent": "14,700",
         "cost_security_deposit": "32,000",
-        "locality": "Sithalapakkam"
+        "locality": "Sithalapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in T Nagar Chennai",
@@ -12049,7 +12049,7 @@
         "balcony": "",
         "cost_rent": "18,000",
         "cost_security_deposit": "36,000",
-        "locality": "Arumbakkam"
+        "locality": "Arumbakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -12080,7 +12080,7 @@
         "cost_monthly_maintenance": "1,200",
         "cost_security_deposit": "1,80,000",
         "age_of_property": "15 to 20 years",
-        "locality": "Ss."
+        "locality": "Anna Nagar"
     },
     {
         "title": "1 BHK Builder Floor for Rent in TVK Nagar Purasaiwakkam Chennai",
@@ -12106,7 +12106,7 @@
         "balcony": "",
         "cost_rent": "8,500",
         "cost_security_deposit": "17,000",
-        "locality": "TVK Nagar Purasaiwakkam"
+        "locality": "Purasaiwakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -12132,7 +12132,7 @@
         "balcony": "",
         "cost_rent": "15,000",
         "cost_security_deposit": "32,000",
-        "locality": "in between semmancherry talambur"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Valasaravakkam Chennai",
@@ -12161,7 +12161,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "60,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Valasaravakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Mambakkam Chennai",
@@ -12190,7 +12190,7 @@
         "balcony": "2",
         "cost_rent": "14,100",
         "cost_security_deposit": "30,000",
-        "locality": "VIT Avenue Staar Homes"
+        "locality": "Mambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Tambaram West Tambaram Chennai",
@@ -12221,7 +12221,7 @@
         "cost_rent": "15,000",
         "cost_monthly_maintenance": "1,300",
         "cost_security_deposit": "50,000",
-        "locality": "Manimangalam Road"
+        "locality": "Tambaram"
     },
     {
         "title": "2 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -12308,7 +12308,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "80,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Plot No 151 G1 Shree Dhaya Flats first main road L&T colony CRR puram mugalivakkam Chennai 600125"
+        "locality": "Manapakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Navalur Chennai",
@@ -12339,7 +12339,7 @@
         "cost_rent": "26,000",
         "cost_monthly_maintenance": "4,800",
         "cost_security_deposit": "1,25,000",
-        "locality": "3BHK Apartment 11th floor flat no 11E Jaspar block Olympia opaline apartment OMR road Navalur Chennai."
+        "locality": "Navalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Thiruvanmiyur Chennai",
@@ -12422,7 +12422,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Plot No80"
+        "locality": "Ayappanthangal"
     },
     {
         "title": "3 BHK Apartment for Rent in East Coast Road Chennai",
@@ -12453,7 +12453,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "New Construction",
-        "locality": "F702."
+        "locality": "East Coast Road"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Iyyappanthangal Chennai",
@@ -12482,7 +12482,7 @@
         "cost_rent": "13,000",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "50,000",
-        "locality": "2 BHK Plot No F Door No 1 2nd Floor SRI KAMATCHIAMMAN FLATS Iyyappanthangal Chennai"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "3 BHK Apartment for Rent in Alwarpet Chennai",
@@ -12513,7 +12513,7 @@
         "cost_rent": "37,000",
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "24,000",
-        "locality": "3 BHK Plot No 10 Flat No S1 2nd Floor GREEN COURT Alwarpet Chennai"
+        "locality": "Alwarpet"
     },
     {
         "title": "4 BHK Penthouse for Rent in Nolambur Chennai",
@@ -12542,7 +12542,7 @@
         "cost_monthly_maintenance": "3,300",
         "cost_security_deposit": "10,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Mogappiar west"
+        "locality": "Nolambur"
     },
     {
         "title": "2 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -12570,7 +12570,7 @@
         "balcony": "1",
         "cost_rent": "33,000",
         "cost_monthly_maintenance": "3,000",
-        "locality": "2 BHK Flat No 12 3rd Floor Stand Alone Buliding Anna Nagar Chennai"
+        "locality": "Anna Nagar"
     },
     {
         "title": "4 BHK Apartment for Rent in Egattur Chennai",
@@ -12601,7 +12601,7 @@
         "cost_rent": "90,000",
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "6,00,000",
-        "locality": "4BHK Apartment  11th floor  flat no 1101 Birchwood Tower  Hiranandani Apartment  OMR road  Navalur  Chennai."
+        "locality": "Egattur"
     },
     {
         "title": "3 BHK Apartment for Rent in Pammal Chennai",
@@ -12631,7 +12631,7 @@
         "cost_rent": "30,000",
         "cost_monthly_maintenance": "6,000",
         "cost_security_deposit": "1,50,000",
-        "locality": "3BHK Apartment  10th floor  flat no 1002 G Block  Appaswamy Bloomingdale Apartment  MGR Nagar Pammal Chennai."
+        "locality": "Pammal"
     },
     {
         "title": "3 BHK Apartment for Rent in Royapuram Chennai",
@@ -12660,7 +12660,7 @@
         "cost_rent": "20,000",
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "2,00,000",
-        "locality": "Opp to Aman Towers"
+        "locality": "Royapuram"
     },
     {
         "title": "2 BHK Apartment for Rent in Madipakkam Chennai",
@@ -12691,7 +12691,7 @@
         "cost_rent": "13,000",
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "65,000",
-        "locality": "3rd street Srinangar"
+        "locality": "Madipakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Arumbakkam Chennai",
@@ -12722,7 +12722,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "New Construction",
-        "locality": "Old no 48 New no 15 Valluvar Salai"
+        "locality": "Arumbakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -12752,7 +12752,7 @@
         "cost_rent": "95,000",
         "cost_monthly_maintenance": "15,000",
         "cost_security_deposit": "6,00,000",
-        "locality": "3BHK Apartment  6th floor  flat no 6B  Amara  Akasha Apartment  rajiv gandhi salai OMR Perungudi Chennai."
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Pammal Chennai",
@@ -12838,7 +12838,7 @@
         "cost_monthly_maintenance": "600",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Saro garden"
+        "locality": "Poonamallee"
     },
     {
         "title": "2 BHK Apartment for Rent in VS Mani Nagar Chennai",
@@ -12867,7 +12867,7 @@
         "cost_rent": "12,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "New Construction",
-        "locality": "vs mani Nagar"
+        "locality": "VS Mani Nagar"
     },
     {
         "title": "1 BHK Apartment for Rent in New Perungalathur Chennai",
@@ -12949,7 +12949,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Madambakkam Chennai",
@@ -12976,7 +12976,7 @@
         "balcony": "",
         "cost_rent": "6,300",
         "cost_security_deposit": "14,000",
-        "locality": "Madambakkam"
+        "locality": "Madambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Madipakkam Chennai",
@@ -13006,7 +13006,7 @@
         "cost_rent": "23,000",
         "cost_security_deposit": "46,000",
         "age_of_property": "Less than 5 years",
-        "locality": "No. 10"
+        "locality": "Madipakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Mambakkam Chennai",
@@ -13033,7 +13033,7 @@
         "balcony": "",
         "cost_rent": "40,000",
         "cost_security_deposit": "80,000",
-        "locality": "Mambakkam"
+        "locality": "Mambakam"
     },
     {
         "title": "1 BHK Apartment for Rent in Alandur Chennai",
@@ -13113,7 +13113,7 @@
         "cost_rent": "1 Lac",
         "cost_security_deposit": "2,20,000",
         "age_of_property": "15 to 20 years",
-        "locality": "Dr Vasudevan Road Off Ormes Road"
+        "locality": "Kilpauk"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Vanagaram Chennai",
@@ -13141,7 +13141,7 @@
         "cost_rent": "17,000",
         "cost_monthly_maintenance": "1,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Thendral Apartments"
+        "locality": "Vanagaram"
     },
     {
         "title": "2 BHK Apartment for Rent in Pammal Chennai",
@@ -13195,7 +13195,7 @@
         "balcony": "",
         "cost_rent": "16,000",
         "cost_security_deposit": "32,000",
-        "locality": "Thiruvalluvar Nagar New Washermenpet"
+        "locality": "Thiruvaluvar Nagar New Washermenpet"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kovur Chennai",
@@ -13226,7 +13226,7 @@
         "balcony": "2",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "S-14 Dharshan Aishwaryam porur kundratur high road"
+        "locality": "Kovur"
     },
     {
         "title": "2 BHK Apartment for Rent in Urapakkam Chennai",
@@ -13255,7 +13255,7 @@
         "cost_rent": "12,000",
         "cost_security_deposit": "60,000",
         "age_of_property": "New Construction",
-        "locality": "Urapakkam"
+        "locality": "Urapakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Vanagaram Chennai",
@@ -13446,7 +13446,7 @@
         "cost_rent": "7,500",
         "cost_security_deposit": "90,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Mannadi"
+        "locality": "Manadi"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Padi Chennai",
@@ -13502,7 +13502,7 @@
         "balcony": "1",
         "cost_rent": "9,000",
         "cost_security_deposit": "18,000",
-        "locality": "Krishna engineering college near"
+        "locality": "Padapai"
     },
     {
         "title": "3 BHK Apartment for Rent in Perungalathur Chennai",
@@ -13556,7 +13556,7 @@
         "balcony": "",
         "cost_rent": "18,000",
         "cost_security_deposit": "36,000",
-        "locality": "Kolapakkam"
+        "locality": "Kolapakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Surappattu Chennai",
@@ -13583,7 +13583,7 @@
         "balcony": "",
         "cost_rent": "12,100",
         "cost_security_deposit": "26,000",
-        "locality": "Surappattu"
+        "locality": "Surapattu"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Madhanandapuram Chennai",
@@ -13613,7 +13613,7 @@
         "cost_rent": "16,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Madhanandapuram"
+        "locality": "Madhandapuram"
     },
     {
         "title": "3 BHK Apartment for Rent in Oragadam Chennai",
@@ -13667,7 +13667,7 @@
         "balcony": "",
         "cost_rent": "11,700",
         "cost_security_deposit": "26,000",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "1 BHK Apartment for Rent in Oragadam Chennai",
@@ -13694,7 +13694,7 @@
         "balcony": "",
         "cost_rent": "6,000",
         "cost_security_deposit": "13,000",
-        "locality": "Chennai - South"
+        "locality": "Oragadam"
     },
     {
         "title": "2 BHK Apartment for Rent in Thazhambur Chennai",
@@ -13755,7 +13755,7 @@
         "cost_monthly_maintenance": "2",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "ceebros sapthagiriheights sholinganallur"
+        "locality": "Sholinganallur"
     },
     {
         "title": "2 BHK Apartment for Rent in Athipet Chennai",
@@ -13816,7 +13816,7 @@
         "balcony": "2",
         "cost_rent": "26,000",
         "cost_security_deposit": "1",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Semmancheri Chennai",
@@ -13843,7 +13843,7 @@
         "balcony": "",
         "cost_rent": "14,000",
         "cost_security_deposit": "28,000",
-        "locality": "Semmancheri"
+        "locality": "Semancheri"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Chromepet Chennai",
@@ -13874,7 +13874,7 @@
         "cost_rent": "15,500",
         "cost_security_deposit": "33,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Jains Meadows"
+        "locality": "Chrompet"
     },
     {
         "title": "3 BHK Apartment for Rent in Aminjikarai Chennai",
@@ -13929,7 +13929,7 @@
         "balcony": "1",
         "cost_rent": "10,000",
         "cost_security_deposit": "50,000",
-        "locality": "Mugalivakkam"
+        "locality": "Mugalivakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -13957,7 +13957,7 @@
         "balcony": "",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Tambaram Sanatorium Chennai",
@@ -13988,7 +13988,7 @@
         "cost_rent": "10,000",
         "cost_monthly_maintenance": "200",
         "cost_security_deposit": "60,000",
-        "locality": "C 316."
+        "locality": "Tambaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Chromepet Chennai",
@@ -14016,7 +14016,7 @@
         "cost_rent": "17,000",
         "cost_security_deposit": "75,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Thirumudivakkam Rd"
+        "locality": "Chrompet"
     },
     {
         "title": "1 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -14042,7 +14042,7 @@
         "balcony": "",
         "cost_rent": "14,000",
         "cost_security_deposit": "28,000",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Builder Floor for Rent in TNGO Colony Adambakkam Chennai",
@@ -14070,7 +14070,7 @@
         "balcony": "",
         "cost_rent": "13,000",
         "cost_security_deposit": "26,000",
-        "locality": "Murugan Nagar"
+        "locality": "Adambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Arumbakkam Chennai",
@@ -14100,7 +14100,7 @@
         "cost_monthly_maintenance": "5,100",
         "cost_security_deposit": "13,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Inner Ring road"
+        "locality": "Arumbakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Mylapore Chennai",
@@ -14128,7 +14128,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "2,80,000",
         "age_of_property": "10 to 15 years",
-        "locality": "46"
+        "locality": "Mylapore"
     },
     {
         "title": "3 BHK Apartment for Rent in Velachery Chennai",
@@ -14157,7 +14157,7 @@
         "cost_rent": "40,000",
         "cost_monthly_maintenance": "3,700",
         "cost_security_deposit": "2,40,000",
-        "locality": "3BHK Apartment  5th floor flat no M105 East block  SIS Meridian Apartment  100 feet road  Velachery  Chennai."
+        "locality": "Velachery"
     },
     {
         "title": "2 BHK Apartment for Rent in Valasaravakkam Chennai",
@@ -14187,7 +14187,7 @@
         "cost_rent": "38,000",
         "cost_security_deposit": "76,000",
         "age_of_property": "Above 20 years",
-        "locality": "Valasaravakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Anjugam Nagar Kolathur Chennai",
@@ -14217,7 +14217,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,65,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Anjugam Nagar Kolathur"
+        "locality": "Kolathur"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Vadapalani Chennai",
@@ -14247,7 +14247,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Off 100 Feet Road"
+        "locality": "Vadapalani"
     },
     {
         "title": "2 BHK Apartment for Rent in Pallavaram Chennai",
@@ -14303,7 +14303,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "50,000",
         "age_of_property": "New Construction",
-        "locality": "Gowri Avenue Sathya Nagar Anakaputhur Chennai.."
+        "locality": "Anakaputhur"
     },
     {
         "title": "3 BHK Apartment for Rent in Pallavaram Chennai",
@@ -14391,7 +14391,7 @@
         "cost_rent": "18,000",
         "cost_security_deposit": "36,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Majestic Colony Main road"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -14506,7 +14506,7 @@
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
         "age_of_property": "New Construction",
-        "locality": "Blocknew Avadi Road"
+        "locality": "Karapakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Thiruverkadu Chennai",
@@ -14563,7 +14563,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "90,000",
         "age_of_property": "5 to 10 years",
-        "locality": "f2 first floor"
+        "locality": "Venkatraman Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in S Kolathur Chennai",
@@ -14590,7 +14590,7 @@
         "balcony": "",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "S Kolathur"
+        "locality": "Kolathur"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Kundrathur Chennai",
@@ -14645,7 +14645,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Raja Nagar Poonamallee"
+        "locality": "Poonamallee"
     },
     {
         "title": "2 BHK Apartment for Rent in Perambur Chennai",
@@ -14676,7 +14676,7 @@
         "cost_rent": "17,500",
         "cost_monthly_maintenance": "2,500",
         "age_of_property": "10 to 15 years",
-        "locality": "No 14 Chelli Amman koil Street Lakshmanan nagar chennai 82"
+        "locality": "Perambur"
     },
     {
         "title": "4 BHK Apartment for Rent in Oragadam Chennai",
@@ -14736,7 +14736,7 @@
         "balcony": "1",
         "cost_rent": "16,000",
         "cost_monthly_maintenance": "2,000",
-        "locality": "Kamarajar Salai Tambaram"
+        "locality": "Kamaraj Avenue"
     },
     {
         "title": "2 BHK Apartment for Rent in Urapakkam Chennai",
@@ -14763,7 +14763,7 @@
         "balcony": "",
         "cost_rent": "13,000",
         "cost_security_deposit": "26,000",
-        "locality": "Urapakkam"
+        "locality": "Urapakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Old Washermanpet Chennai",
@@ -14844,7 +14844,7 @@
         "balcony": "",
         "cost_rent": "40,500",
         "cost_security_deposit": "90,000",
-        "locality": "Tambaram West Tambaram"
+        "locality": "West Tambaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Perumbakkam Chennai",
@@ -14925,7 +14925,7 @@
         "balcony": "",
         "cost_rent": "23,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "1 BHK Apartment for Rent in Karambur Chennai",
@@ -15008,7 +15008,7 @@
         "balcony": "",
         "cost_rent": "9,000",
         "cost_security_deposit": "18,000",
-        "locality": "Urapakkam"
+        "locality": "Urapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kodambakkam Chennai",
@@ -15197,7 +15197,7 @@
         "balcony": "",
         "cost_rent": "29,100",
         "cost_security_deposit": "64,000",
-        "locality": "Konnur"
+        "locality": "Konur"
     },
     {
         "title": "2 BHK Apartment for Rent in Mogappair Chennai",
@@ -15254,7 +15254,7 @@
         "balcony": "",
         "cost_rent": "9,500",
         "cost_security_deposit": "19,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Iyyappanthangal Chennai",
@@ -15281,7 +15281,7 @@
         "balcony": "",
         "cost_rent": "7,700",
         "cost_security_deposit": "17,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "4 BHK Builder Floor for Rent in Ambattur Industrial Estate Chennai",
@@ -15308,7 +15308,7 @@
         "balcony": "",
         "cost_rent": "27,900",
         "cost_security_deposit": "60,000",
-        "locality": "Ambattur Industrial Estate"
+        "locality": "Ambattur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kolapakkam Chennai",
@@ -15335,7 +15335,7 @@
         "balcony": "",
         "cost_rent": "12,700",
         "cost_security_deposit": "28,000",
-        "locality": "Kolapakkam"
+        "locality": "Kolapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kolathur Chennai",
@@ -15472,7 +15472,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Tharapakkam"
+        "locality": "Tharapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kolapakkam Chennai",
@@ -15499,7 +15499,7 @@
         "balcony": "",
         "cost_rent": "10,000",
         "cost_security_deposit": "40,000",
-        "locality": "Kolapakkam"
+        "locality": "Kolapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Moolakadai Chennai",
@@ -15526,7 +15526,7 @@
         "balcony": "",
         "cost_rent": "12,600",
         "cost_security_deposit": "28,000",
-        "locality": "Moolakadai"
+        "locality": "Molakadai"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Avadi Chennai",
@@ -15717,7 +15717,7 @@
         "balcony": "",
         "cost_rent": "22,500",
         "cost_security_deposit": "1,12,500",
-        "locality": "JVC-Emerald"
+        "locality": "Tambaram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Guindy Chennai",
@@ -15775,7 +15775,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Valasaravakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Moulivakkam Chennai",
@@ -15802,7 +15802,7 @@
         "balcony": "",
         "cost_rent": "3,600",
         "cost_security_deposit": "8,000",
-        "locality": "Moulivakkam"
+        "locality": "Moulivakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Perambur Chennai",
@@ -15856,7 +15856,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Chennai - North"
+        "locality": "Kodungaiyur"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Tharapakkam Chennai",
@@ -15883,7 +15883,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Tharapakkam"
+        "locality": "Tharapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in S Kolathur Chennai",
@@ -15910,7 +15910,7 @@
         "balcony": "",
         "cost_rent": "15,000",
         "cost_security_deposit": "30,000",
-        "locality": "S Kolathur"
+        "locality": "Kolathur"
     },
     {
         "title": "1 BHK Builder Floor for Rent in KK Nagar Chennai",
@@ -16006,7 +16006,7 @@
         "cost_security_deposit": "12,00,000",
         "cost_brokerage": "2,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "kotturpuram"
+        "locality": "Kotturpuram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Mount Road Chennai",
@@ -16040,7 +16040,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "40,000",
-        "locality": "1 Anna Salai"
+        "locality": "Mount Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Vadapalani Chennai",
@@ -16133,7 +16133,7 @@
         "cost_monthly_maintenance": "6,500",
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "40,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -16164,7 +16164,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "nest holiday sholinganallur"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -16231,7 +16231,7 @@
         "cost_security_deposit": "2,50,000",
         "cost_brokerage": "28,000",
         "age_of_property": "New Construction",
-        "locality": "back side to MR hospital"
+        "locality": "Nelson Manickam Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Kodambakkam Chennai",
@@ -16265,7 +16265,7 @@
         "cost_security_deposit": "2,20,000",
         "cost_brokerage": "36,500",
         "age_of_property": "Less than 5 years",
-        "locality": "Near   Brown Star Hotels"
+        "locality": "Kodambakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in N Usman Road Chennai",
@@ -16297,7 +16297,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "5,00,000",
         "age_of_property": "New Construction",
-        "locality": "t nagar"
+        "locality": "T Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -16326,7 +16326,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "50,000",
         "age_of_property": "New Construction",
-        "locality": "Hari Priya Apartments"
+        "locality": "Guduvancheri"
     },
     {
         "title": "3 BHK Apartment for Rent in Valasaravakkam Chennai",
@@ -16360,7 +16360,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "35,000",
         "age_of_property": "New Construction",
-        "locality": "Valasaravakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sriperumbudur Chennai",
@@ -16388,7 +16388,7 @@
         "balcony": "2",
         "cost_rent": "25,000",
         "cost_security_deposit": "75,000",
-        "locality": "Nemili(B) Village"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "2 BHK Apartment for Rent in Old Perungalathur Chennai",
@@ -16415,7 +16415,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "New Construction",
-        "locality": "Old Perungalathur"
+        "locality": "Perungalathur"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Thiruporur Chennai",
@@ -16562,7 +16562,7 @@
         "cost_rent": "36,000",
         "cost_security_deposit": "1,60,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Gill Nagar"
+        "locality": "Gil Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Tambaram Chennai",
@@ -16618,7 +16618,7 @@
         "cost_monthly_maintenance": "200",
         "cost_security_deposit": "25,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Anugraha"
+        "locality": "Anugraha, phase 2 Shantiniketan 8th cross st, mudichur near Anne matriculation school"
     },
     {
         "title": "2 BHK Apartment for Rent in Madipakkam Chennai",
@@ -16647,7 +16647,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Rayala Nagar ramapuram"
+        "locality": "Madipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Kotturpuram Chennai",
@@ -16737,7 +16737,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "36,000",
         "age_of_property": "5 to 10 years",
-        "locality": "flat no 1 plot no 4060b"
+        "locality": "Madipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -16919,7 +16919,7 @@
         "cost_monthly_maintenance": "15,000",
         "cost_security_deposit": "8,00,000",
         "cost_brokerage": "Brokerage No brokerage",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Oragadam Chennai",
@@ -17045,7 +17045,7 @@
         "cost_security_deposit": "84,000",
         "cost_brokerage": "Brokerage No brokerage",
         "age_of_property": "5 to 10 years",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "1 BHK Apartment for Rent in Virugambakkam Chennai",
@@ -17077,7 +17077,7 @@
         "cost_security_deposit": "50,000",
         "cost_brokerage": "6,000",
         "age_of_property": "Above 20 years",
-        "locality": "Ambathkar Street Ganthi nagr"
+        "locality": "Virugambakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Ambattur Chennai",
@@ -17204,7 +17204,7 @@
         "balcony": "",
         "cost_rent": "13,500",
         "cost_monthly_maintenance": "2,000",
-        "locality": "Velachery Main Road"
+        "locality": "Medavakkam"
     },
     {
         "title": "1 BHK Apartment for Rent in Ayappakkam Chennai",
@@ -17236,7 +17236,7 @@
         "cost_monthly_maintenance": "200",
         "cost_security_deposit": "50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "100 7th cross st Ezhil Nagar ph2"
+        "locality": "Ayapakkam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Anna Nagar Chennai",
@@ -17352,7 +17352,7 @@
         "rent": 12000,
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Madhanandapuram"
+        "locality": "Madhandapuram"
     },
     {
         "title": "1 BHK Apartment for Rent in T Nagar Chennai",
@@ -17385,7 +17385,7 @@
         "cost_rent": "22,000",
         "cost_monthly_maintenance": "2,000",
         "cost_brokerage": "22,000",
-        "locality": "Near matchaya hotel s."
+        "locality": "T Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -17417,7 +17417,7 @@
         "cost_rent": "52,000",
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "5,20,000",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -17447,7 +17447,7 @@
         "cost_rent": "50,000",
         "cost_monthly_maintenance": "7,000",
         "age_of_property": "Above 20 years",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "4 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -17477,7 +17477,7 @@
         "balcony": "2",
         "cost_rent": "6 Lac",
         "cost_security_deposit": "12,00,000",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Thiruvanmiyur Chennai",
@@ -17509,7 +17509,7 @@
         "cost_rent": "45,000",
         "cost_security_deposit": "90,000",
         "age_of_property": "New Construction",
-        "locality": "Kamaraj nagar"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "4 BHK Apartment for Rent in Gandhi Nagar Adyar Chennai",
@@ -17542,7 +17542,7 @@
         "cost_security_deposit": "5,20,000",
         "cost_brokerage": "65,000",
         "age_of_property": "Above 20 years",
-        "locality": "Gandhi Nagar Adyar"
+        "locality": "Adyar"
     },
     {
         "title": "3 BHK Apartment for Rent in Kovalam Chennai",
@@ -17573,7 +17573,7 @@
         "cost_rent": "1.5 Lac",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "New Construction",
-        "locality": "14th floor"
+        "locality": "Kovalam"
     },
     {
         "title": "1 BHK Apartment for Rent in West Mambalam Chennai",
@@ -17602,7 +17602,7 @@
         "cost_rent": "10,000",
         "cost_security_deposit": "20,000",
         "age_of_property": "Above 20 years",
-        "locality": "Badani complex"
+        "locality": "West Mambalam"
     },
     {
         "title": "2 BHK Apartment for Rent in Mogappair East Chennai",
@@ -17660,7 +17660,7 @@
         "cost_rent": "7,000",
         "cost_monthly_maintenance": "500",
         "age_of_property": "New Construction",
-        "locality": "110B  1st  Srinivasa Nager Mangadu Chennai 600122"
+        "locality": "Mangadu"
     },
     {
         "title": "3 BHK Apartment for Rent in Thiruporur Chennai",
@@ -17770,7 +17770,7 @@
         "balcony": "1",
         "cost_rent": "18,000",
         "cost_security_deposit": "2,00,000",
-        "locality": "Old No 67 New No 118 T P Koil Street Triplicane"
+        "locality": "Triplicane"
     },
     {
         "title": "3 BHK Apartment for Rent in Allapakkam Porur Chennai",
@@ -17799,7 +17799,7 @@
         "cost_monthly_maintenance": "3,200",
         "cost_security_deposit": "75,000",
         "age_of_property": "Less than 5 years",
-        "locality": "No.401"
+        "locality": "Allapakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -17830,7 +17830,7 @@
         "cost_monthly_maintenance": "6,500",
         "cost_security_deposit": "2,50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "A-block"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in T Nagar Chennai",
@@ -17860,7 +17860,7 @@
         "cost_rent": "48,000",
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "3,00,000",
-        "locality": "Jains Akshaya"
+        "locality": "T Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Thoraipakkam Chennai",
@@ -17892,7 +17892,7 @@
         "cost_monthly_maintenance": "6,300",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Thuraipakkam."
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -17954,7 +17954,7 @@
         "balcony": "1",
         "cost_rent": "20,000",
         "cost_monthly_maintenance": "2,500",
-        "locality": "2BHK Apartment 4th floor flat no 413 H Block UrbanRise Revolution one Apartment OMR Road Padur Chennai."
+        "locality": "Padur"
     },
     {
         "title": "2 BHK Apartment for Rent in Vanagaram Chennai",
@@ -17984,7 +17984,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,10,000",
         "age_of_property": "New Construction",
-        "locality": "PLOT 5C"
+        "locality": "Vanagaram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Sithalapakkam Chennai",
@@ -18011,7 +18011,7 @@
         "balcony": "",
         "cost_rent": "8,000",
         "cost_security_deposit": "16,000",
-        "locality": "Sithalapakkam"
+        "locality": "Sithalapakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Kodambakkam Chennai",
@@ -18091,7 +18091,7 @@
         "balcony": "",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "Virugambakkam"
+        "locality": "Virugambakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Vanagaram Chennai",
@@ -18147,7 +18147,7 @@
         "cost_rent": "17,700",
         "cost_security_deposit": "38,000",
         "age_of_property": "5 to 10 years",
-        "locality": "fdd"
+        "locality": "Thirumudivakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Ksr Nagar Chennai",
@@ -18178,7 +18178,7 @@
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "New Construction",
-        "locality": "292"
+        "locality": "Ksr Nagar"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Medavakkam Chennai",
@@ -18296,7 +18296,7 @@
         "cost_rent": "13,000",
         "cost_security_deposit": "26,000",
         "age_of_property": "New Construction",
-        "locality": "Mambakkam Sriperumbudur"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "2 BHK Apartment for Rent in Perambur Chennai",
@@ -18384,7 +18384,7 @@
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,25,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Anna Nagar West Extension"
+        "locality": "Anna Nagar"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Lumbini Square Chennai",
@@ -18413,7 +18413,7 @@
         "cost_monthly_maintenance": "750",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Lumbini Square"
+        "locality": "Purasaiwakkam"
     },
     {
         "title": "4 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -18441,7 +18441,7 @@
         "cost_rent": "30,000",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "New Construction",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in West Mambalam Chennai",
@@ -18493,7 +18493,7 @@
         "balcony": "",
         "cost_rent": "27,900",
         "cost_security_deposit": "60,000",
-        "locality": "Chennai - South"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "3 BHK Apartment for Rent in Iyyappanthangal Chennai",
@@ -18520,7 +18520,7 @@
         "balcony": "",
         "cost_rent": "31,500",
         "cost_security_deposit": "70,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Virugambakkam Chennai",
@@ -18547,7 +18547,7 @@
         "balcony": "",
         "cost_rent": "13,000",
         "cost_security_deposit": "26,000",
-        "locality": "Virugambakkam"
+        "locality": "Virugambakam"
     },
     {
         "title": "1 BHK Apartment for Rent in Kuthambakkam Chennai",
@@ -18573,7 +18573,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Kuthambakkam"
+        "locality": "Kuthambakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Sembakkam Chennai",
@@ -18600,7 +18600,7 @@
         "balcony": "",
         "cost_rent": "9,100",
         "cost_security_deposit": "20,000",
-        "locality": "Sembakkam"
+        "locality": "Sembakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Porur Chennai",
@@ -18763,7 +18763,7 @@
         "balcony": "1",
         "cost_rent": "10,000",
         "cost_security_deposit": "50,000",
-        "locality": "Irandankattalai"
+        "locality": "Irandankatalai"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Madambakkam Chennai",
@@ -18790,7 +18790,7 @@
         "balcony": "",
         "cost_rent": "10,800",
         "cost_security_deposit": "24,000",
-        "locality": "Madambakkam"
+        "locality": "Madambakam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in KK Nagar Chennai",
@@ -18850,7 +18850,7 @@
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "New Construction",
-        "locality": "Madavaram"
+        "locality": "Madhavaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Navalur Chennai",
@@ -18884,7 +18884,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "4,80,000",
         "cost_brokerage": "85,000",
-        "locality": "amalfi"
+        "locality": "Navalur"
     },
     {
         "title": "3 BHK Apartment for Rent in Mambakkam Sriperumbudur Chennai",
@@ -18914,7 +18914,7 @@
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "60,000",
         "age_of_property": "Less than 5 years",
-        "locality": "unity enclave"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "4 BHK Apartment for Rent in T Nagar Chennai",
@@ -19031,7 +19031,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "3,50,000",
-        "locality": "Moore Street"
+        "locality": "Parrys"
     },
     {
         "title": "2 BHK Apartment for Rent in Chitlapakkam Chennai",
@@ -19059,7 +19059,7 @@
         "cost_rent": "15,000",
         "cost_security_deposit": "75,000",
         "age_of_property": "Above 20 years",
-        "locality": "Chitlapakkam"
+        "locality": "Chitlapakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -19191,7 +19191,7 @@
         "cost_rent": "2,00,000",
         "cost_monthly_maintenance": "9",
         "cost_security_deposit": "16,00,000",
-        "locality": "174"
+        "locality": "MRC Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Karapakkam Chennai",
@@ -19258,7 +19258,7 @@
         "cost_security_deposit": "75,000",
         "cost_brokerage": "Brokerage (15 days)\u20b98,000",
         "age_of_property": "5 to 10 years",
-        "locality": "TATA New Haven Ribbon Walk"
+        "locality": "Mambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Adyar Chennai",
@@ -19324,7 +19324,7 @@
         "cost_monthly_maintenance": "7,000",
         "cost_security_deposit": "2,40,000",
         "cost_brokerage": "80,000",
-        "locality": "Elcot Ave"
+        "locality": "Sholinganallur"
     },
     {
         "title": "2 BHK Apartment for Rent in Perungudi Chennai",
@@ -19358,7 +19358,7 @@
         "cost_security_deposit": "1,20,000",
         "cost_brokerage": "40,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Chennai"
+        "locality": "Perungudi"
     },
     {
         "title": "3 BHK Apartment for Rent in Navalur Chennai",
@@ -19420,7 +19420,7 @@
         "balcony": "2",
         "cost_rent": "75,000",
         "cost_security_deposit": "1,50,000",
-        "locality": "Raja Annamalai Puram"
+        "locality": "RA Puram"
     },
     {
         "title": "3 BHK Apartment for Rent in Ambattur Chennai",
@@ -19519,7 +19519,7 @@
         "cost_rent": "65,000",
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "2,00,000",
-        "locality": "m block 6th avenue"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Thiruvanmiyur Chennai",
@@ -19552,7 +19552,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "3,30,000",
         "cost_brokerage": "50,000",
-        "locality": "Thirvanmiyur"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -19645,7 +19645,7 @@
         "balcony": "3",
         "cost_rent": "50,000",
         "cost_brokerage": "50,000",
-        "locality": "Ra puram."
+        "locality": "RA Puram"
     },
     {
         "title": "3 BHK Apartment for Rent in Adyar Chennai",
@@ -19679,7 +19679,7 @@
         "cost_security_deposit": "10,000",
         "cost_brokerage": "1,50,000",
         "age_of_property": "New Construction",
-        "locality": "bashyam plutus"
+        "locality": "Adyar"
     },
     {
         "title": "3 BHK Apartment for Rent in Poes Garden Chennai",
@@ -19712,7 +19712,7 @@
         "cost_monthly_maintenance": "8,000",
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,00,000",
-        "locality": "poesgarden"
+        "locality": "Poes Garden"
     },
     {
         "title": "4 BHK Apartment for Rent in Kotturpuram Chennai",
@@ -19745,7 +19745,7 @@
         "cost_security_deposit": "30,00,000",
         "cost_brokerage": "3,00,000",
         "age_of_property": "New Construction",
-        "locality": "Injambakkam."
+        "locality": "Kotturpuram"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -19778,7 +19778,7 @@
         "cost_security_deposit": "2,70,000",
         "cost_brokerage": "45,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Chennai"
+        "locality": "Padur"
     },
     {
         "title": "3 BHK Apartment for Rent in Kelambakkam Chennai",
@@ -19837,7 +19837,7 @@
         "cost_monthly_maintenance": "1,400",
         "cost_security_deposit": "1,32,000",
         "age_of_property": "Above 20 years",
-        "locality": "44 Naickamar Street West Mambalam"
+        "locality": "West Mambalam"
     },
     {
         "title": "3 BHK Apartment for Rent in Oragadam Chennai",
@@ -19888,7 +19888,7 @@
         "rent": 9000,
         "cost_rent": "9,000",
         "cost_security_deposit": "18,000",
-        "locality": "Ponneri"
+        "locality": "Poneri"
     },
     {
         "title": "4 BHK Apartment for Rent in Alwarpet Chennai",
@@ -19921,7 +19921,7 @@
         "cost_monthly_maintenance": "30,000",
         "cost_security_deposit": "22,20,000",
         "cost_brokerage": "3,70,000",
-        "locality": "boat club"
+        "locality": "Alwarpet"
     },
     {
         "title": "3 BHK Apartment for Rent in Mandavelipakkam Chennai",
@@ -19953,7 +19953,7 @@
         "cost_security_deposit": "2,40,000",
         "cost_brokerage": "Brokerage No brokerage",
         "age_of_property": "5 to 10 years",
-        "locality": "32 Thiruvengadam Street"
+        "locality": "Madipakkam"
     },
     {
         "title": "4 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -19986,7 +19986,7 @@
         "cost_rent": "4,25,000",
         "cost_brokerage": "4,25,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "5 BHK Apartment for Rent in Arcot Road Chennai",
@@ -20020,7 +20020,7 @@
         "cost_security_deposit": "3,50,000",
         "cost_brokerage": "75,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Chennai"
+        "locality": "Arcot Road"
     },
     {
         "title": "4 BHK Apartment for Rent in Alwarpet Chennai",
@@ -20084,7 +20084,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "1,00,000",
         "cost_brokerage": "20,000",
-        "locality": "Old Mahabalipuram Rd"
+        "locality": "Padur"
     },
     {
         "title": "3 BHK Apartment for Rent in Thoraipakkam Chennai",
@@ -20152,7 +20152,7 @@
         "cost_security_deposit": "3,60,000",
         "cost_brokerage": "60,000",
         "age_of_property": "Above 20 years",
-        "locality": "Chennai"
+        "locality": "Chetpet"
     },
     {
         "title": "4 BHK Apartment for Rent in Adyar Chennai",
@@ -20185,7 +20185,7 @@
         "cost_monthly_maintenance": "10,000",
         "cost_security_deposit": "9,90,000",
         "cost_brokerage": "1,65,000",
-        "locality": "Chennai"
+        "locality": "Adyar"
     },
     {
         "title": "2 BHK Apartment for Rent in Thiruvanmiyur Chennai",
@@ -20219,7 +20219,7 @@
         "cost_security_deposit": "1,20,000",
         "cost_brokerage": "22,000",
         "age_of_property": "10 to 15 years",
-        "locality": "near marudeeswarar temple"
+        "locality": "Thiruvanmiyur"
     },
     {
         "title": "4 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -20252,7 +20252,7 @@
         "cost_security_deposit": "5,50,000",
         "cost_brokerage": "90,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Anna Nagar Chennai"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in CIT Colony Chennai",
@@ -20311,7 +20311,7 @@
         "cost_rent": "45,000",
         "cost_monthly_maintenance": "2,500",
         "age_of_property": "Above 20 years",
-        "locality": "Annanagar East"
+        "locality": "Annagar East"
     },
     {
         "title": "3 BHK Apartment for Rent in Kotturpuram Chennai",
@@ -20340,7 +20340,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "15 to 20 years",
-        "locality": "A 4 Rajparis Ishwarayam"
+        "locality": "Kotturpuram"
     },
     {
         "title": "3 BHK Apartment for Rent in Pallavaram Chennai",
@@ -20371,7 +20371,7 @@
         "cost_rent": "50,000",
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "2,50,000",
-        "locality": "Mantri Serene"
+        "locality": "Pallavaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Block AK Anna Nagar Chennai",
@@ -20405,7 +20405,7 @@
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "4,50,000",
         "cost_brokerage": "75,000",
-        "locality": "AK Block"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Pallavaram Chennai",
@@ -20439,7 +20439,7 @@
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "28,000",
         "age_of_property": "New Construction",
-        "locality": "Radial Road Pallavaram"
+        "locality": "Pallavaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -20506,7 +20506,7 @@
         "cost_security_deposit": "2,28,000",
         "cost_brokerage": "25,000",
         "age_of_property": "Less than 5 years",
-        "locality": "kolathur main road"
+        "locality": "Kolathur"
     },
     {
         "title": "2 BHK Apartment for Rent in Porur Chennai",
@@ -20604,7 +20604,7 @@
         "cost_monthly_maintenance": "8,500",
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "85,000",
-        "locality": "Kilpauk Ormes Road...."
+        "locality": "Kilpauk"
     },
     {
         "title": "3 BHK Apartment for Rent in Mount Road Chennai",
@@ -20636,7 +20636,7 @@
         "cost_rent": "2,00,000",
         "cost_monthly_maintenance": "6",
         "cost_security_deposit": "20,00,000",
-        "locality": "Club House Road"
+        "locality": "Mount Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Egmore Chennai",
@@ -20700,7 +20700,7 @@
         "cost_rent": "2.8 Lac",
         "cost_security_deposit": "5,50,000",
         "age_of_property": "New Construction",
-        "locality": "Anna Nagar East O block"
+        "locality": "Anna Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Panaiyur Chennai",
@@ -20792,7 +20792,7 @@
         "cost_security_deposit": "1,00,000",
         "cost_brokerage": "20,000",
         "age_of_property": "Less than 5 years",
-        "locality": "2 BHK apartment.panchali Amman koil temple. back side. vaishnav college"
+        "locality": "Arumbakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Padi Chennai",
@@ -20856,7 +20856,7 @@
         "cost_security_deposit": "10,00,000",
         "cost_brokerage": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Anna nagar"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -20886,7 +20886,7 @@
         "balcony": "3",
         "cost_rent": "65,000",
         "cost_security_deposit": "1,30,000",
-        "locality": "nelson manikkam road"
+        "locality": "Nungambakam"
     },
     {
         "title": "1 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -20920,7 +20920,7 @@
         "cost_security_deposit": "1,00,000",
         "cost_brokerage": "24,000",
         "age_of_property": "5 to 10 years",
-        "locality": "sholinganallur"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in Injambakkam Chennai",
@@ -20949,7 +20949,7 @@
         "cost_rent": "1 Lac",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Injambakkam"
+        "locality": "Injambakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Nungambakkam Chennai",
@@ -20979,7 +20979,7 @@
         "cost_rent": "36,000",
         "cost_monthly_maintenance": "1,500",
         "age_of_property": "Above 20 years",
-        "locality": "No 26 Flat no 1 Tank Bund Road First Street Nungambakkam Chennai"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Iyyappanthangal Chennai",
@@ -21012,7 +21012,7 @@
         "cost_monthly_maintenance": "5,400",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Apartment for Rent in Vadapalani Chennai",
@@ -21138,7 +21138,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "55,000",
         "age_of_property": "10 to 15 years",
-        "locality": "peters Rd"
+        "locality": "Royapetah"
     },
     {
         "title": "4 BHK Apartment for Rent in T Nagar Chennai",
@@ -21171,7 +21171,7 @@
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "near  nair road"
+        "locality": "T Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Padur Chennai",
@@ -21231,7 +21231,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "60,000",
         "age_of_property": "Less than 5 years",
-        "locality": "20a"
+        "locality": "Kolathur"
     },
     {
         "title": "4 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -21264,7 +21264,7 @@
         "cost_monthly_maintenance": "9,500",
         "cost_security_deposit": "35,00,000",
         "cost_brokerage": "75,000",
-        "locality": "metrozone  Anna Nagar"
+        "locality": "Anna Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in RA Puram Chennai",
@@ -21295,7 +21295,7 @@
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "5,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "stmaris rd"
+        "locality": "RA Puram"
     },
     {
         "title": "2 BHK Apartment for Rent in T Nagar Chennai",
@@ -21329,7 +21329,7 @@
         "cost_security_deposit": "2,00,000",
         "cost_brokerage": "42,000",
         "age_of_property": "5 to 10 years",
-        "locality": "near nadiar sangam"
+        "locality": "T Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Valasaravakkam Chennai",
@@ -21362,7 +21362,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "10",
         "age_of_property": "5 to 10 years",
-        "locality": "Chennai"
+        "locality": "Valasaravakam"
     },
     {
         "title": "4 BHK Apartment for Rent in Virugambakkam Chennai",
@@ -21394,7 +21394,7 @@
         "cost_rent": "48,000",
         "cost_monthly_maintenance": "3,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "virugambakkam"
+        "locality": "Virugambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Besant Nagar Chennai",
@@ -21494,7 +21494,7 @@
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "30,000",
         "age_of_property": "New Construction",
-        "locality": "4"
+        "locality": "Tondiarpet"
     },
     {
         "title": "4 BHK Penthouse for Rent in Alwarpet Chennai",
@@ -21524,7 +21524,7 @@
         "balcony": "2",
         "cost_rent": "5.5 Lac",
         "cost_security_deposit": "11,00,000",
-        "locality": "Alwarpet Close RA Puram"
+        "locality": "Alwarpet"
     },
     {
         "title": "3 BHK Apartment for Rent in Alwarpet Chennai",
@@ -21557,7 +21557,7 @@
         "cost_security_deposit": "5,40,000",
         "cost_brokerage": "95,000",
         "age_of_property": "Less than 5 years",
-        "locality": "St road."
+        "locality": "Alwarpet"
     },
     {
         "title": "3 BHK Apartment for Rent in Thiruvanmiyur Chennai",
@@ -21622,7 +21622,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "3,00,000",
         "cost_brokerage": "55,000",
-        "locality": "Harrington Road"
+        "locality": "Chetpet"
     },
     {
         "title": "2 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -21655,7 +21655,7 @@
         "cost_security_deposit": "1,80,000",
         "cost_brokerage": "30,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Rajive Gandhi salai omr sholingaur Chennai south"
+        "locality": "Sholinganallur"
     },
     {
         "title": "3 BHK Apartment for Rent in Navalur Chennai",
@@ -21685,7 +21685,7 @@
         "cost_rent": "60,000",
         "cost_brokerage": "60,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Chennai"
+        "locality": "Navalur"
     },
     {
         "title": "2 BHK Apartment for Rent in Kandigai Chennai",
@@ -21747,7 +21747,7 @@
         "cost_rent": "28,000",
         "cost_security_deposit": "56,000",
         "age_of_property": "New Construction",
-        "locality": "Thorapakkamm"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Selaiyur Chennai",
@@ -21803,7 +21803,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,00,000",
-        "locality": "A9"
+        "locality": "Villivakkam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Chitlapakkam Chennai",
@@ -21833,7 +21833,7 @@
         "balcony": "2",
         "cost_rent": "15,000",
         "cost_security_deposit": "66,000",
-        "locality": "Chitlapakkam"
+        "locality": "Chitlapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -21862,7 +21862,7 @@
         "balcony": "1 ",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "MM Cascade Thirumullaivayol Ambattur"
+        "locality": "Ambattur"
     },
     {
         "title": "2 BHK Apartment for Rent in Ayappakkam Chennai",
@@ -21892,7 +21892,7 @@
         "cost_monthly_maintenance": "2,200",
         "cost_security_deposit": "1,05,000",
         "age_of_property": "New Construction",
-        "locality": "No 4"
+        "locality": "Ambattur"
     },
     {
         "title": "2 BHK Apartment for Rent in Vadapalani Chennai",
@@ -21951,7 +21951,7 @@
         "cost_monthly_maintenance": "800",
         "cost_security_deposit": "50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Balaji Nagar"
+        "locality": "Kattupakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Kattupakkam Chennai",
@@ -22036,7 +22036,7 @@
         "cost_rent": "45,000",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "301."
+        "locality": "Arumbakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Kolathur Chennai",
@@ -22092,7 +22092,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "80,000",
         "age_of_property": "5 to 10 years",
-        "locality": "1st  Vanniar Street"
+        "locality": "Korattur"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -22121,7 +22121,7 @@
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "85,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Adyar Chennai",
@@ -22174,7 +22174,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Baba Nagar Villivakkam"
+        "locality": "Villivakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -22204,7 +22204,7 @@
         "cost_rent": "40,000",
         "cost_security_deposit": "80,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Rajiv Gandhi Salai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Mambakkam Sriperumbudur Chennai",
@@ -22233,7 +22233,7 @@
         "cost_rent": "8,900",
         "cost_security_deposit": "19,000",
         "age_of_property": "New Construction",
-        "locality": "jhothy nagar"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "1 BHK Apartment for Rent in Porur Chennai",
@@ -22292,7 +22292,7 @@
         "cost_rent": "22,000",
         "cost_monthly_maintenance": "2,250",
         "cost_security_deposit": "2,00,000",
-        "locality": "Arcot road"
+        "locality": "Arcot Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Ambattur Chennai",
@@ -22320,7 +22320,7 @@
         "cost_rent": "10,000",
         "cost_monthly_maintenance": "300",
         "age_of_property": "10 to 15 years",
-        "locality": "334"
+        "locality": "Korattur"
     },
     {
         "title": "1 BHK Apartment for Rent in Porur Chennai",
@@ -22351,7 +22351,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "50,000",
         "age_of_property": "Less than 5 years",
-        "locality": "No. 155"
+        "locality": "Porur"
     },
     {
         "title": "2 BHK Apartment for Rent in Selaiyur Chennai",
@@ -22379,7 +22379,7 @@
         "cost_rent": "12,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "5 to 10 years",
-        "locality": "C2F3"
+        "locality": "Selaiyur"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -22408,7 +22408,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "310."
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -22468,7 +22468,7 @@
         "cost_rent": "20,000",
         "cost_monthly_maintenance": "400",
         "cost_security_deposit": "1,00,000",
-        "locality": "29A Sri Ganesh Apartments"
+        "locality": "Valmiki Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Guduvancheri Chennai",
@@ -22554,7 +22554,7 @@
         "cost_rent": "44,000",
         "cost_security_deposit": "2,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "3 BHK Apartment for Rent in Potheri Chennai",
@@ -22611,7 +22611,7 @@
         "cost_rent": "20,000",
         "cost_monthly_maintenance": "1,100",
         "age_of_property": "Less than 5 years",
-        "locality": "Plot no. 31"
+        "locality": "Porur"
     },
     {
         "title": "3 BHK Apartment for Rent in Ganesh Nagar Vanuvampet Chennai",
@@ -22642,7 +22642,7 @@
         "cost_rent": "35,000",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,80,000",
-        "locality": "5/2"
+        "locality": "Teynampet"
     },
     {
         "title": "3 BHK Apartment for Rent in Pallavaram Thuraipakkam Road Chennai",
@@ -22672,7 +22672,7 @@
         "balcony": "1",
         "cost_rent": "20,700",
         "cost_security_deposit": "45,000",
-        "locality": "Thuraipakkam"
+        "locality": "Pallavaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Madhavaram Chennai",
@@ -22760,7 +22760,7 @@
         "cost_rent": "45,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "240"
+        "locality": "Korattur"
     },
     {
         "title": "1 BHK Apartment for Rent in Poonamallee Chennai",
@@ -22816,7 +22816,7 @@
         "cost_rent": "32,000",
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "50,000",
-        "locality": "Harrington road"
+        "locality": "Shenoy Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Oragadam Chennai",
@@ -22875,7 +22875,7 @@
         "cost_rent": "25,000",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Plot 105"
+        "locality": "Valasaravakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Arumbakkam Chennai",
@@ -22905,7 +22905,7 @@
         "cost_rent": "40,000",
         "cost_monthly_maintenance": "3,500",
         "cost_security_deposit": "2,00,000",
-        "locality": "L7  Triumph Apartments 114 Jawaharlal Nehru Salai"
+        "locality": "Arumbakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Vinayakapuram Lakshmipuram Chennai",
@@ -22934,7 +22934,7 @@
         "cost_rent": "14,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "34Balavinayagar koil StreetVinayagapuramChennai 99"
+        "locality": "Lakshmipuram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Maduravoyal Chennai",
@@ -22964,7 +22964,7 @@
         "cost_rent": "12,200",
         "cost_security_deposit": "27,000",
         "age_of_property": "5 to 10 years",
-        "locality": "No 5"
+        "locality": "Maduravoyal"
     },
     {
         "title": "1 BHK Apartment for Rent in Pudupakkam Chennai",
@@ -23106,7 +23106,7 @@
         "balcony": "1 ",
         "cost_rent": "26,000",
         "cost_security_deposit": "52,000",
-        "locality": "Kovilambakkam"
+        "locality": "Kovilambakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Selaiyur Chennai",
@@ -23167,7 +23167,7 @@
         "cost_rent": "24,000",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "72,000",
-        "locality": "Sector 9"
+        "locality": "KK Nagar"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kolathur Chennai",
@@ -23223,7 +23223,7 @@
         "cost_rent": "19,000",
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,00,000",
-        "locality": "T M maistry street near Dhanya Dental Clinic"
+        "locality": "Besant Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Thaiyur Chennai",
@@ -23308,7 +23308,7 @@
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
         "age_of_property": "Under Construction",
-        "locality": "Nellikuppam Road"
+        "locality": "Guduvancheri"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Annanagar East Chennai",
@@ -23337,7 +23337,7 @@
         "cost_rent": "45,000",
         "cost_security_deposit": "90,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Annanagar East"
+        "locality": "Annagar East"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Perumbakkam Chennai",
@@ -23398,7 +23398,7 @@
         "cost_rent": "30,000",
         "cost_security_deposit": "60,000",
         "age_of_property": "Less than 5 years",
-        "locality": "No13"
+        "locality": "Madhandapuram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Chromepet Chennai",
@@ -23424,7 +23424,7 @@
         "balcony": "",
         "cost_rent": "11,000",
         "cost_security_deposit": "22,000",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -23482,7 +23482,7 @@
         "cost_rent": "16,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "817"
+        "locality": "Ayanavaram"
     },
     {
         "title": "3 BHK Apartment for Rent in Mogappair Chennai",
@@ -23509,7 +23509,7 @@
         "cost_rent": "30,000",
         "cost_monthly_maintenance": "3,000",
         "age_of_property": "5 to 10 years",
-        "locality": "mmm hosptal near"
+        "locality": "Mogappair"
     },
     {
         "title": "2 BHK Apartment for Rent in Choolaimedu High Road Chennai",
@@ -23541,7 +23541,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "Above 20 years",
-        "locality": "Choolaimedu High Road"
+        "locality": "Choolaimedu"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -23734,7 +23734,7 @@
         "balcony": "",
         "cost_rent": "9,000",
         "cost_security_deposit": "18,000",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Vadapalani Chennai",
@@ -23796,7 +23796,7 @@
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "28,000",
         "age_of_property": "5 to 10 years",
-        "locality": "ameerjohn sreeet"
+        "locality": "Choolaimedu"
     },
     {
         "title": "3 BHK Apartment for Rent in Sholinganallur Chennai",
@@ -23856,7 +23856,7 @@
         "cost_monthly_maintenance": "500",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "10 to 15 years",
-        "locality": "66"
+        "locality": "Kolathur"
     },
     {
         "title": "1 BHK Apartment for Rent in Indra Nagar Chennai",
@@ -23882,7 +23882,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Indra Nagar"
+        "locality": "Indira Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Kovilambakkam Chennai",
@@ -23911,7 +23911,7 @@
         "cost_rent": "27,900",
         "cost_security_deposit": "60,000",
         "age_of_property": "New Construction",
-        "locality": "Medavakkam"
+        "locality": "Kovilambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Mambakkam Sriperumbudur Chennai",
@@ -23937,7 +23937,7 @@
         "balcony": "",
         "cost_rent": "22,000",
         "cost_security_deposit": "44,000",
-        "locality": "Mambakkam Sriperumbudur"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Kolathur Chennai",
@@ -23966,7 +23966,7 @@
         "cost_rent": "11,000",
         "cost_security_deposit": "22,000",
         "age_of_property": "Less than 5 years",
-        "locality": "17 th Street"
+        "locality": "Kolathur"
     },
     {
         "title": "3 BHK Apartment for Rent in Korattur Chennai",
@@ -24055,7 +24055,7 @@
         "cost_rent": "30,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "A1-606."
+        "locality": "Padur"
     },
     {
         "title": "2 BHK Apartment for Rent in Kallikuppam Chennai",
@@ -24083,7 +24083,7 @@
         "cost_monthly_maintenance": "2,000",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Kallikuppam"
+        "locality": "Kalikuppam"
     },
     {
         "title": "2 BHK Apartment for Rent in Rajakilpakkam Chennai",
@@ -24113,7 +24113,7 @@
         "cost_monthly_maintenance": "1,300",
         "cost_security_deposit": "40,000",
         "age_of_property": "5 to 10 years",
-        "locality": "B3 Sri Paruvatham apartment"
+        "locality": "Rajakilpakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -24168,7 +24168,7 @@
         "balcony": "1",
         "cost_rent": "42,000",
         "cost_security_deposit": "84,000",
-        "locality": "Kannan Colony"
+        "locality": "Shanthi Colony"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Pozhichalur Chennai",
@@ -24222,7 +24222,7 @@
         "cost_rent": "1.1 Lac",
         "cost_security_deposit": "2,50,000",
         "age_of_property": "New Construction",
-        "locality": "Nallambakkam"
+        "locality": "Nalambakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -24251,7 +24251,7 @@
         "cost_rent": "25,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Pinewood A-603"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "1 BHK Apartment for Rent in Choolaimedu Chennai",
@@ -24310,7 +24310,7 @@
         "cost_rent": "12,200",
         "cost_security_deposit": "26,000",
         "age_of_property": "New Construction",
-        "locality": "5 mins from Perungalathur railway station / bus stand.3A"
+        "locality": "Perungalathur"
     },
     {
         "title": "1 BHK Apartment for Rent in Anna Nagar Chennai",
@@ -24365,7 +24365,7 @@
         "balcony": "",
         "cost_rent": "30,000",
         "cost_security_deposit": "60,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Gowriwakkam Chennai",
@@ -24445,7 +24445,7 @@
         "balcony": "",
         "cost_rent": "25,400",
         "cost_security_deposit": "54,000",
-        "locality": "Anna Nagar West"
+        "locality": "Anna Nagar"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Villivakkam Chennai",
@@ -24526,7 +24526,7 @@
         "balcony": "",
         "cost_rent": "9,000",
         "cost_security_deposit": "20,000",
-        "locality": "Tambaram West Tambaram"
+        "locality": "West Tambaram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Triplicane Chennai",
@@ -24644,7 +24644,7 @@
         "cost_rent": "19,800",
         "cost_security_deposit": "44,000",
         "age_of_property": "Less than 5 years",
-        "locality": "1"
+        "locality": "Villivakkam"
     },
     {
         "title": "3 BHK Apartment for Rent in Padur Chennai",
@@ -24674,7 +24674,7 @@
         "cost_rent": "30,000",
         "cost_security_deposit": "1,50,000",
         "age_of_property": "New Construction",
-        "locality": "506."
+        "locality": "Padur"
     },
     {
         "title": "1 BHK Apartment for Rent in Medavakkam Chennai",
@@ -24920,7 +24920,7 @@
         "balcony": "",
         "cost_rent": "12,500",
         "cost_security_deposit": "25,000",
-        "locality": "Chitlapakkam"
+        "locality": "Chitlapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Madipakkam Chennai",
@@ -25186,7 +25186,7 @@
         "rent": 25000,
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "Manapakkam"
+        "locality": "Manapakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -25215,7 +25215,7 @@
         "cost_rent": "20,000",
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "60,000",
-        "locality": "F3 - Block J"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Masilamani Nagar Chennai",
@@ -25244,7 +25244,7 @@
         "cost_monthly_maintenance": "600",
         "cost_security_deposit": "60,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Masilamani Nagar"
+        "locality": "Mangadu"
     },
     {
         "title": "1 BHK Apartment for Rent in Chromepet Chennai",
@@ -25272,7 +25272,7 @@
         "cost_rent": "15,000",
         "cost_security_deposit": "60,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "2 BHK Apartment for Rent in Allapakkam Porur Chennai",
@@ -25299,7 +25299,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Allapakkam Porur"
+        "locality": "Allapakkam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Tiruvottiyur Chennai",
@@ -25322,7 +25322,7 @@
         "rent": 12000,
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Tiruvottiyur"
+        "locality": "Tiruvotiyur"
     },
     {
         "title": "1 BHK Apartment for Rent in Mudichur Chennai",
@@ -25379,7 +25379,7 @@
         "cost_rent": "6,000",
         "cost_security_deposit": "12,000",
         "age_of_property": "New Construction",
-        "locality": "No. 1 . Camp Road. rajammal nagar Ayapakm chennai77"
+        "locality": "Ayapakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Valasaravakkam Chennai",
@@ -25408,7 +25408,7 @@
         "balcony": "1",
         "cost_rent": "22,500",
         "cost_security_deposit": "45,000",
-        "locality": "PN Ramamurthy Road"
+        "locality": "Valasaravakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Luz Chennai",
@@ -25438,7 +25438,7 @@
         "cost_rent": "22,000",
         "cost_monthly_maintenance": "1,500",
         "cost_security_deposit": "1,60,000",
-        "locality": "S-3"
+        "locality": "Mylapore"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Guduvancheri Chennai",
@@ -25684,7 +25684,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Anna Nagar West"
+        "locality": "Anna Nagar"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Choolaimedu Chennai",
@@ -25738,7 +25738,7 @@
         "balcony": "",
         "cost_rent": "7,500",
         "cost_security_deposit": "16,000",
-        "locality": "Poongavanapuram"
+        "locality": "Pongavanapuram"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Poongavanapuram Chennai",
@@ -25765,7 +25765,7 @@
         "balcony": "",
         "cost_rent": "6,500",
         "cost_security_deposit": "13,000",
-        "locality": "Poongavanapuram"
+        "locality": "Pongavanapuram"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Mugalivakkam Chennai",
@@ -25794,7 +25794,7 @@
         "cost_rent": "3,800",
         "cost_security_deposit": "7,600",
         "age_of_property": "10 to 15 years",
-        "locality": "Mugalivakkam"
+        "locality": "Mugalivakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Gandhi Road Chennai",
@@ -25821,7 +25821,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Gandhi Road"
+        "locality": "GP Road"
     },
     {
         "title": "2 BHK Apartment for Rent in Padur Chennai",
@@ -25902,7 +25902,7 @@
         "balcony": "",
         "cost_rent": "8,000",
         "cost_security_deposit": "16,000",
-        "locality": "Pallikaranai"
+        "locality": "Palikaranai"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Iyyappanthangal Chennai",
@@ -25929,7 +25929,7 @@
         "balcony": "",
         "cost_rent": "11,800",
         "cost_security_deposit": "26,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Perambur Chennai",
@@ -26037,7 +26037,7 @@
         "balcony": "",
         "cost_rent": "7,000",
         "cost_security_deposit": "14,000",
-        "locality": "Mannivakkam"
+        "locality": "Manivakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Saligramam Chennai",
@@ -26064,7 +26064,7 @@
         "balcony": "",
         "cost_rent": "24,000",
         "cost_security_deposit": "48,000",
-        "locality": "Arcot Road"
+        "locality": "Saligramam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Pammal Chennai",
@@ -26145,7 +26145,7 @@
         "balcony": "",
         "cost_rent": "17,500",
         "cost_security_deposit": "38,000",
-        "locality": "Moulivakkam"
+        "locality": "Moulivakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Porur Chennai",
@@ -26201,7 +26201,7 @@
         "balcony": "",
         "cost_rent": "40,000",
         "cost_security_deposit": "80,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Apartment for Rent in Selaiyur Chennai",
@@ -26255,7 +26255,7 @@
         "balcony": "",
         "cost_rent": "33,000",
         "cost_security_deposit": "66,000",
-        "locality": "Mugalivakkam"
+        "locality": "Mugalivakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Pammal Chennai",
@@ -26338,7 +26338,7 @@
         "cost_monthly_maintenance": "1,800",
         "cost_security_deposit": "2,00,000",
         "age_of_property": "15 to 20 years",
-        "locality": "Old 15 - New 25"
+        "locality": "T Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Kelambakkam Chennai",
@@ -26369,7 +26369,7 @@
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "42 kelambakkam Kovalam road kelambakkam"
+        "locality": "Kelambakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Porur Chennai",
@@ -26475,7 +26475,7 @@
         "rent": 19300,
         "cost_rent": "19,300",
         "cost_security_deposit": "42,000",
-        "locality": "Mambakkam Sriperumbudur"
+        "locality": "Sriperumbudur"
     },
     {
         "title": "1 BHK Apartment for Rent in Urapakkam Chennai",
@@ -26504,7 +26504,7 @@
         "cost_rent": "12,000",
         "cost_monthly_maintenance": "1,200",
         "cost_security_deposit": "50,000",
-        "locality": "1BHK Apartment Ground floor  Flat no GF Phase 3 Anand Apartment Station road  Urapakkam Chennai."
+        "locality": "Urapakam"
     },
     {
         "title": "1 BHK Apartment for Rent in Kannan Nagar Chennai",
@@ -26533,7 +26533,7 @@
         "cost_monthly_maintenance": "750",
         "cost_security_deposit": "46,000",
         "age_of_property": "Less than 5 years",
-        "locality": "Flat S2"
+        "locality": "Chrompet"
     },
     {
         "title": "3 BHK Apartment for Rent in Anna Nagar West Chennai",
@@ -26561,7 +26561,7 @@
         "balcony": "2",
         "cost_rent": "60,000",
         "cost_security_deposit": "3,00,000",
-        "locality": "Anna Nagar West"
+        "locality": "Anna Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Porur Chennai",
@@ -26674,7 +26674,7 @@
         "cost_monthly_maintenance": "1,000",
         "cost_security_deposit": "75,000",
         "age_of_property": "Less than 5 years",
-        "locality": "2c block 2"
+        "locality": "Ambattur"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Annanagar East Chennai",
@@ -26701,7 +26701,7 @@
         "balcony": "",
         "cost_rent": "50,000",
         "cost_security_deposit": "1,00,000",
-        "locality": "Chennai"
+        "locality": "Annagar East"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Sithalapakkam Chennai",
@@ -26728,7 +26728,7 @@
         "balcony": "",
         "cost_rent": "7,000",
         "cost_security_deposit": "14,000",
-        "locality": "Sithalapakkam"
+        "locality": "Sithalapakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Keelkattalai Chennai",
@@ -26866,7 +26866,7 @@
         "cost_monthly_maintenance": "200",
         "cost_security_deposit": "45,000",
         "age_of_property": "New Construction",
-        "locality": "13."
+        "locality": "Urapakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Aiswarya Nagar Chennai",
@@ -27014,7 +27014,7 @@
         "cost_rent": "22,000",
         "cost_security_deposit": "44,000",
         "age_of_property": "Less than 5 years",
-        "locality": "14"
+        "locality": "Nolambur"
     },
     {
         "title": "2 BHK Apartment for Rent in Ambattur Chennai",
@@ -27072,7 +27072,7 @@
         "cost_rent": "4,500",
         "cost_security_deposit": "9,000",
         "age_of_property": "New Construction",
-        "locality": "K. A. Avinash building"
+        "locality": "Thirumullaivoyal"
     },
     {
         "title": "3 BHK Apartment for Rent in Kattankulathur Chennai",
@@ -27102,7 +27102,7 @@
         "balcony": "1",
         "cost_rent": "30,000",
         "cost_monthly_maintenance": "5,000",
-        "locality": "54"
+        "locality": "Potheri"
     },
     {
         "title": "3 BHK Apartment for Rent in Karapakkam Chennai",
@@ -27184,7 +27184,7 @@
         "balcony": "",
         "cost_rent": "7,000",
         "cost_security_deposit": "14,000",
-        "locality": "Chakravarthy Nagar Ayanavaram"
+        "locality": "Ayanavaram"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Avadi Chennai",
@@ -27266,7 +27266,7 @@
         "balcony": "2",
         "cost_rent": "11,000",
         "cost_security_deposit": "22,000",
-        "locality": "Old Perungalathur"
+        "locality": "Perungalathur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Annanur Chennai",
@@ -27320,7 +27320,7 @@
         "balcony": "",
         "cost_rent": "15,000",
         "cost_security_deposit": "30,000",
-        "locality": "Madambakkam"
+        "locality": "Madambakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Tambaram West Tambaram Chennai",
@@ -27347,7 +27347,7 @@
         "balcony": "",
         "cost_rent": "13,800",
         "cost_security_deposit": "30,000",
-        "locality": "Tambaram West Tambaram"
+        "locality": "West Tambaram"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Okkiyam Thuraipakkam, E Coast Road Chennai",
@@ -27374,7 +27374,7 @@
         "balcony": "",
         "cost_rent": "24,000",
         "cost_security_deposit": "48,000",
-        "locality": "Chennai - South"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "2 BHK Apartment for Rent in Purasaiwakkam Chennai",
@@ -27455,7 +27455,7 @@
         "balcony": "",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "Kuthambakkam"
+        "locality": "Kuthambakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Sembakkam Chennai",
@@ -27482,7 +27482,7 @@
         "balcony": "",
         "cost_rent": "9,500",
         "cost_security_deposit": "19,000",
-        "locality": "Sembakkam"
+        "locality": "Sembakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Arumbakkam Chennai",
@@ -27509,7 +27509,7 @@
         "balcony": "",
         "cost_rent": "25,000",
         "cost_security_deposit": "50,000",
-        "locality": "Arumbakkam"
+        "locality": "Arumbakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Ekkatuthangal Chennai",
@@ -27563,7 +27563,7 @@
         "balcony": "",
         "cost_rent": "10,000",
         "cost_security_deposit": "20,000",
-        "locality": "Periyar Nagar West Perambur"
+        "locality": "Perambur"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Okkiyam Thuraipakkam, E Coast Road Chennai",
@@ -27590,7 +27590,7 @@
         "balcony": "",
         "cost_rent": "20,000",
         "cost_security_deposit": "40,000",
-        "locality": "Chennai - South"
+        "locality": "Thoraipakkam"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Vanagaram Chennai",
@@ -27698,7 +27698,7 @@
         "balcony": "",
         "cost_rent": "12,200",
         "cost_security_deposit": "26,000",
-        "locality": "Poongavanapuram"
+        "locality": "Pongavanapuram"
     },
     {
         "title": "3 BHK Builder Floor for Rent in Ambattur Chennai",
@@ -27779,7 +27779,7 @@
         "balcony": "",
         "cost_rent": "15,000",
         "cost_security_deposit": "30,000",
-        "locality": "Valasaravakkam"
+        "locality": "Valasaravakam"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Poonamallee Chennai",
@@ -27834,7 +27834,7 @@
         "balcony": "1",
         "cost_rent": "15,000",
         "cost_security_deposit": "90,000",
-        "locality": "Chromepet"
+        "locality": "Chrompet"
     },
     {
         "title": "1 BHK Builder Floor for Rent in Pallavaram Chennai",
@@ -27944,7 +27944,7 @@
         "balcony": "",
         "cost_rent": "12,000",
         "cost_security_deposit": "24,000",
-        "locality": "Mugalivakkam"
+        "locality": "Mugalivakam"
     },
     {
         "title": "2 BHK Apartment for Rent in Tambaram Chennai",
@@ -27999,7 +27999,7 @@
         "balcony": "",
         "cost_rent": "5,500",
         "cost_security_deposit": "50,000",
-        "locality": "Vadaperumbakkam"
+        "locality": "Vadaperumbakam"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Maduravoyal Chennai",
@@ -28135,7 +28135,7 @@
         "balcony": "",
         "cost_rent": "6,000",
         "cost_security_deposit": "12,000",
-        "locality": "Madambakkam"
+        "locality": "Madambakam"
     },
     {
         "title": "1 BHK Apartment for Rent in Iyyappanthangal Chennai",
@@ -28162,7 +28162,7 @@
         "balcony": "",
         "cost_rent": "17,000",
         "cost_security_deposit": "34,000",
-        "locality": "Iyyappanthangal"
+        "locality": "Iyappanthangal"
     },
     {
         "title": "2 BHK Apartment for Rent in Vanagaram Chennai",
@@ -28255,7 +28255,7 @@
         "cost_monthly_maintenance": "4,000",
         "cost_security_deposit": "1,00,000",
         "cost_brokerage": "75,000",
-        "locality": "kothari road"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in Besant Nagar Chennai",
@@ -28289,7 +28289,7 @@
         "cost_security_deposit": "5,00,000",
         "cost_brokerage": "1,00,000",
         "age_of_property": "5 to 10 years",
-        "locality": "besant nagar"
+        "locality": "Besant Nagar"
     },
     {
         "title": "3 BHK Apartment for Rent in Kilpauk Chennai",
@@ -28383,7 +28383,7 @@
         "cost_rent": "70,000",
         "cost_security_deposit": "7,00,000",
         "cost_brokerage": "70,000",
-        "locality": "10"
+        "locality": "Panaiyur"
     },
     {
         "title": "4 BHK Apartment for Rent in Santhome Chennai",
@@ -28413,7 +28413,7 @@
         "balcony": "1",
         "cost_rent": "4.5 Lac",
         "cost_security_deposit": "9,00,000",
-        "locality": "santhom"
+        "locality": "Santhome"
     },
     {
         "title": "4 BHK Apartment for Rent in T Nagar Chennai",
@@ -28446,7 +28446,7 @@
         "cost_security_deposit": "6,00,000",
         "cost_brokerage": "1,00,000",
         "age_of_property": "Less than 5 years",
-        "locality": "GN chetty road"
+        "locality": "T Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Guindy Chennai",
@@ -28542,7 +28542,7 @@
         "cost_rent": "80,000",
         "cost_brokerage": "Brokerage No brokerage",
         "age_of_property": "Less than 5 years",
-        "locality": "Chennai"
+        "locality": "Anna Nagar"
     },
     {
         "title": "2 BHK Apartment for Rent in Kilpauk Chennai",
@@ -28608,7 +28608,7 @@
         "cost_security_deposit": "75,000",
         "cost_brokerage": "Brokerage (25 days)\u20b915,000",
         "age_of_property": "10 to 15 years",
-        "locality": "Velachery junction"
+        "locality": "Velachery"
     },
     {
         "title": "2 BHK Apartment for Rent in Old Mahabalipuram Road Chennai Chennai",
@@ -28641,7 +28641,7 @@
         "cost_security_deposit": "1,00,000",
         "cost_brokerage": "20,000",
         "age_of_property": "5 to 10 years",
-        "locality": "Old Mahabalipuram Road Chennai"
+        "locality": "Old Mahabalipuram Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Arumbakkam Chennai",
@@ -28674,7 +28674,7 @@
         "cost_monthly_maintenance": "2,500",
         "cost_security_deposit": "2,40,000",
         "cost_brokerage": "40,000",
-        "locality": "Arumbakkam Metro Railway station And MMDA BUS TERMINAL"
+        "locality": "Arumbakam"
     },
     {
         "title": "4 BHK Apartment for Rent in Srinagar Colony Saidapet Chennai",
@@ -28707,7 +28707,7 @@
         "cost_monthly_maintenance": "25,000",
         "cost_security_deposit": "14,00,000",
         "cost_brokerage": "2,25,000",
-        "locality": "Srinagar Colony"
+        "locality": "Saidapet"
     },
     {
         "title": "2 BHK Builder Floor for Rent in Nungambakkam Chennai",
@@ -28739,7 +28739,7 @@
         "cost_rent": "40,000",
         "cost_security_deposit": "1,50,000",
         "cost_brokerage": "40,000",
-        "locality": "Nungambakkam"
+        "locality": "Nungambakam"
     },
     {
         "title": "3 BHK Apartment for Rent in South Usman Road Chennai",
@@ -28771,7 +28771,7 @@
         "cost_monthly_maintenance": "5,000",
         "cost_security_deposit": "3,00,000",
         "age_of_property": "New Construction",
-        "locality": "damordan street"
+        "locality": "Mount Road"
     },
     {
         "title": "3 BHK Apartment for Rent in Adyar Chennai",
