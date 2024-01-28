@@ -44,7 +44,7 @@ def main():
         initial_sidebar_state="expanded",  # "auto" or "expanded" or "collapsed"
     )
 
-    #st.title("Chennai Rental Listings from Magic Bricks")
+    st.title("Magic Bricks Rental Listings for Chennai")
     tab_search, tab_insights = st.tabs(['Search', 'Insights'])
 
     with tab_search:
