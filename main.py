@@ -76,11 +76,11 @@ def main():
         bed_options = ["Any", "1", "2", "3", "4", "5+"]
         with col2:
             num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
-
+            submit_button = st.button("Submit")
         with col3:
             locality = st.selectbox("Locality:", localities, localities.index(default_option))
 
-        if st.button("Submit"):
+        if submit_button:
             # Filter the DataFrame based on the selected minimum value
             df['bedroom'].fillna(0, inplace=True)
             #df['address']['addressLocality'].fillna("na", inplace=True)
