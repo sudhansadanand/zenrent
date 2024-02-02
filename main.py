@@ -48,39 +48,40 @@ def main():
     tab_search, tab_insights = st.tabs(['Search', 'Insights'])
 
     with tab_search:
-        st.header("Search Listings")
-
-        # Search contents
-
-        # Load JSON data and extract coordinates
-        json_data = load_json_data('final_mb_data.json')
-        #st.write(str(len(json_data))+" total listings.")
-        localities = ["All"]
-        localities.extend(get_localities(json_data))
-        #localities.append("All")
-        default_option = "All"
-
-        df = pd.DataFrame(json_data)
-
-        df['rent'] = df['rent'].astype(int)
-
-        lowest_rent = df['rent'].min()
-        highest_rent = df['rent'].max()
-
-        
-        col1, col2, col3  = st.columns(3)
-
-        with col1:
-            pass
-        with col2:
-            rent_options = ["Any", "Less than 20K", "20K - 40K", "40K - 60K", "Above 60K"]
-            rent_option = st.selectbox("Rent Range", rent_options, rent_options.index("Any"))
-            bed_options = ["Any", "1", "2", "3", "4", "5+"]
-            num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
-            locality = st.selectbox("Locality:", localities, localities.index(default_option))
-            submit_button = st.button("Submit")
-        with col3:
-            pass
+        with st.expander("Filter Listings")
+            st.header("Search Listings")
+    
+            # Search contents
+    
+            # Load JSON data and extract coordinates
+            json_data = load_json_data('final_mb_data.json')
+            #st.write(str(len(json_data))+" total listings.")
+            localities = ["All"]
+            localities.extend(get_localities(json_data))
+            #localities.append("All")
+            default_option = "All"
+    
+            df = pd.DataFrame(json_data)
+    
+            df['rent'] = df['rent'].astype(int)
+    
+            lowest_rent = df['rent'].min()
+            highest_rent = df['rent'].max()
+    
+            
+            col1, col2, col3  = st.columns(3)
+    
+            with col1:
+                pass
+            with col2:
+                rent_options = ["Any", "Less than 20K", "20K - 40K", "40K - 60K", "Above 60K"]
+                rent_option = st.selectbox("Rent Range", rent_options, rent_options.index("Any"))
+                bed_options = ["Any", "1", "2", "3", "4", "5+"]
+                num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
+                locality = st.selectbox("Locality:", localities, localities.index(default_option))
+                submit_button = st.button("Submit")
+            with col3:
+                pass
         if submit_button:
             # Filter the DataFrame based on the selected minimum value
             df['bedroom'].fillna(0, inplace=True)
