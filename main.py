@@ -54,7 +54,7 @@ def main():
 
         # Load JSON data and extract coordinates
         json_data = load_json_data('final_mb_data.json')
-        st.write(str(len(json_data))+" total listings.")
+        #st.write(str(len(json_data))+" total listings.")
         localities = ["All"]
         localities.extend(get_localities(json_data))
         #localities.append("All")
@@ -71,15 +71,15 @@ def main():
         col1, col2, col3  = st.columns(3)
 
         with col1:
-            rent_option = st.radio("Select your Rent Range", rent_options)
-
-        bed_options = ["Any", "1", "2", "3", "4", "5+"]
+            pass
         with col2:
+            rent_option = st.radio("Select your Rent Range", rent_options)
+            bed_options = ["Any", "1", "2", "3", "4", "5+"]
             num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
+            locality = st.selectbox("Locality:", localities, localities.index(default_option))
             submit_button = st.button("Submit")
         with col3:
-            locality = st.selectbox("Locality:", localities, localities.index(default_option))
-
+            pass
         if submit_button:
             # Filter the DataFrame based on the selected minimum value
             df['bedroom'].fillna(0, inplace=True)
