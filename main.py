@@ -73,7 +73,7 @@ def main():
         with col1:
             pass
         with col2:
-            rent_option = st.radio("Select your Rent Range", rent_options)
+            rent_option = st.selectbox("Rent Range", rent_options,rent_options.index("0"))
             bed_options = ["Any", "1", "2", "3", "4", "5+"]
             num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
             locality = st.selectbox("Locality:", localities, localities.index(default_option))
