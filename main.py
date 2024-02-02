@@ -48,7 +48,7 @@ def main():
     tab_search, tab_insights = st.tabs(['Search', 'Insights'])
 
     with tab_search:
-        with st.expander("Filter Listings")
+        with st.expander("Filter Listings"):
             st.header("Search Listings")
     
             # Search contents
