@@ -67,12 +67,13 @@ def main():
         lowest_rent = df['rent'].min()
         highest_rent = df['rent'].max()
 
-        rent_options = ["Any", "Less than 20K", "20K - 40K", "40K - 60K", "Above 60K"]
+        
         col1, col2, col3  = st.columns(3)
 
         with col1:
             pass
         with col2:
+            rent_options = ["Any", "Less than 20K", "20K - 40K", "40K - 60K", "Above 60K"]
             rent_option = st.selectbox("Rent Range", rent_options,rent_options.index("0"))
             bed_options = ["Any", "1", "2", "3", "4", "5+"]
             num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
