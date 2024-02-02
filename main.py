@@ -74,7 +74,7 @@ def main():
             pass
         with col2:
             rent_options = ["Any", "Less than 20K", "20K - 40K", "40K - 60K", "Above 60K"]
-            rent_option = st.selectbox("Rent Range", rent_options,rent_options.index("0"))
+            rent_option = st.selectbox("Rent Range", rent_options, rent_options.index("1"))
             bed_options = ["Any", "1", "2", "3", "4", "5+"]
             num_beds = st.selectbox("Bedrooms", bed_options, bed_options.index("1"))
             locality = st.selectbox("Locality:", localities, localities.index(default_option))
