@@ -186,8 +186,8 @@ def main():
                     st.write(styled_html_table, unsafe_allow_html=True)
 
 
-        else:
-            st.write("No Matching Listings found")
+            else:
+                st.write("No Matching Listings found")
 
 if __name__ == "__main__":
     main()
