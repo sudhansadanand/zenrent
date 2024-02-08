@@ -185,7 +185,8 @@ def main():
                     styled_html_table = html_table.replace('<th>', '<th style="font-weight: bold">')
 
                     # Display the HTML table in Streamlit with bold column names
-                    st.write(styled_html_table, unsafe_allow_html=True)
+                    with st.expander("Listings: ", expanded=False):
+                        st.write(styled_html_table, unsafe_allow_html=True)
 
 
             else:
