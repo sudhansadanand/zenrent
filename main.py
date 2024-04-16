@@ -62,7 +62,7 @@ def main():
             default_option = "All"
     
             df = pd.DataFrame(json_data)
-    
+            df = df[df["listing_status"] == "valid"]
             df['rent'] = df['rent'].astype(int)
     
             lowest_rent = df['rent'].min()
