@@ -164,13 +164,13 @@ def main():
                                 bed_bath = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom'])
                                 popup_content = f"""
-                                                 <p><b>{title}</b></p><p><b>Bed/Bath: </b>{bed_bath}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank" style="text-align: center;"><b>Listing URL</b></a>
+                                                 <p><b>{title}</b></p><p><b>Bed/Bath: </b>{bed_bath}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                                                  """
                             else:
                                 bed_bath_sqft = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom']) + "/" + str(entry["summary_Super_Area"])
                                 popup_content = f"""
-                                                 <p><b>{title}</b></p><p><b>Bed/Bath/Sqft: </b>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank" style="text-align: center;"><b>Listing URL</b></a>
+                                                 <p><b>{title}</b></p><p><b>Bed/Bath/Sqft: </b>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                                                  """
 
                         else:
@@ -178,13 +178,13 @@ def main():
                                 bed_bath = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom'])
                                 popup_content = f"""
-                                                 <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p><b>Bed/Bath: </b>{bed_bath}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: </b>{listing_id}</p><a href={url_link} target="_blank" style="text-align: center;"><b>Listing URL</b></a>
+                                                 <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p><b>Bed/Bath: </b>{bed_bath}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                                                  """
                             else:
                                 bed_bath_sqft = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom']) + "/" + str(entry["summary_Super_Area"])
                                 popup_content = f"""
-                                                 <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p><b>Bed/Bath/Sqft: </b>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: </b>{listing_id}</p><a href={url_link} target="_blank" style="text-align: center;"><b>Listing URL</b></a>
+                                                 <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p><b>Bed/Bath/Sqft: </b>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                                                  """
                         folium.Marker(
                             location=[entry['geo_latitude'], entry['geo_longitude']],
