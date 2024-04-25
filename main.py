@@ -161,11 +161,11 @@ def main():
                         availability = str(entry["summary_Availability"])
                         if "N/A" in society_name:
                             popup_content = f"""
-                            <p><b>{title}</b></p><p>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing</b></a>
+                            <p><b>{title}</b></p><p>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                             """
                         else:
                             popup_content = f"""
-                            <p><b>{title}</b></p><p>Society Name: {society_name} </p><p>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p>id: {listing_id}</p><a href={url_link} target="_blank"><b>Listing</b></a>
+                            <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: {listing_id}</b></p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                             """
                         folium.Marker(
                             location=[entry['geo_latitude'], entry['geo_longitude']],
