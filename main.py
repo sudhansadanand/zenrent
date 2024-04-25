@@ -152,17 +152,21 @@ def main():
                         url_link = str(entry['url'])
                         listing_id = str(entry['id'])
                         society_name = str(entry['society_name'])
-                        bed_bath_sqft = str(entry['bedroom'])+"/"+str(entry['bathroom'])+"( "+str(entry["summary_Super_Area"])+" )Sqft"
+                        if entry["summary_Super_Area"] == None:
+                            bed_bath_sqft = "Bed/Bath: "+str(entry['bedroom'])+"/"+str(entry['bathroom'])
+                        else:
+                            bed_bath_sqft = "Bed/Bath/Sqft: "+str(entry['bedroom'])+"/"+str(entry['bathroom'])+str(entry["summary_Super_Area"])
+
                         rent = str(entry["rent"])
                         advance = str(entry["cost_security_deposit"])
                         availability = str(entry["summary_Availability"])
                         if "N/A" in society_name:
                             popup_content = f"""
-                            <p>{title}</p><p>id: {listing_id}</p><p>Bed/Bath/Sqft: {bed_bath_sqft}</p><p>availability: {availability} rent: {rent}, advance: {advance} </p><a href={url_link} target="_blank">Link</a>
+                            <p>{title}</p><p>id: {listing_id}</p><p>{bed_bath_sqft}</p><p>availability: {availability} rent: {rent}, advance: {advance} </p><a href={url_link} target="_blank">Link</a>
                             """
                         else:
                             popup_content = f"""
-                            <p>{title}</p><p>id: {listing_id}</p><p>Society Name: {society_name} </p><p>Bed/Bath/Sqft: {bed_bath_sqft}</p><p>availability: {availability} rent: {rent}, advance: {advance} </p><a href={url_link} target="_blank">Link</a>
+                            <p>{title}</p><p>id: {listing_id}</p><p>Society Name: {society_name} </p><p>{bed_bath_sqft}</p><p>availability: {availability} rent: {rent}, advance: {advance} </p><a href={url_link} target="_blank">Link</a>
                             """
                         folium.Marker(
                             location=[entry['geo_latitude'], entry['geo_longitude']],
