@@ -155,8 +155,7 @@ def main():
                         if entry["summary_Super_Area"] == None:
                             bed_bath_sqft = "Bed/Bath: "+str(entry['bedroom'])+"/"+str(entry['bathroom'])
                         else:
-                            bed_bath_sqft = "Bed/Bath/Sqft: "+str(entry['bedroom'])+"/"+str(entry['bathroom'])+str(entry["summary_Super_Area"])
-
+                            bed_bath_sqft = "Bed/Bath/Sqft: "+str(entry['bedroom'])+"/"+str(entry['bathroom'])+"/"+str(entry["summary_Super_Area"])
                         rent = str(entry["rent"])
                         advance = str(entry["cost_security_deposit"])
                         availability = str(entry["summary_Availability"])
