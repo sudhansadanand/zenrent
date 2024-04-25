@@ -161,11 +161,11 @@ def main():
                         availability = str(entry["summary_Availability"])
                         if "N/A" in society_name:
                             popup_content = f"""
-                            <p>{title}</p><p>{bed_bath_sqft}</p><p>availability: {availability} rent: {rent}, advance: {advance} </p><p>id: {listing_id}</p><a href={url_link} target="_blank">Listing</a>
+                            <p><b>{title}</b></p><p>{bed_bath_sqft}</p><p>Availability: {availability} Rent: {rent}, Advance: {advance} </p><p>Id: {listing_id}</p><a href={url_link} target="_blank">Listing</a>
                             """
                         else:
                             popup_content = f"""
-                            <p>{title}</p><p>Society Name: {society_name} </p><p>{bed_bath_sqft}</p><p>availability: {availability} rent: {rent}, advance: {advance} </p><p>id: {listing_id}</p><a href={url_link} target="_blank">Listing</a>
+                            <p><b>{title}</b></p><p>Society Name: {society_name} </p><p>{bed_bath_sqft}</p><p>Availability: {availability} Rent: {rent}, Advance: {advance} </p><p>id: {listing_id}</p><a href={url_link} target="_blank">Listing</a>
                             """
                         folium.Marker(
                             location=[entry['geo_latitude'], entry['geo_longitude']],
