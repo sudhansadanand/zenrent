@@ -161,13 +161,13 @@ def main():
                         availability = str(entry["summary_Availability"])
                         if "N/A" in society_name:
                             if entry["summary_Super_Area"] == None:
-                                bed_bath = "<b>Bed/Bath:</b> " + str(entry['bedroom']) + "/" + str(
+                                bed_bath = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom'])
                                 popup_content = f"""
                                                  <p><b>{title}</b></p><p><b>Bed/Bath: </b>{bed_bath}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                                                  """
                             else:
-                                bed_bath_sqft = "<b>Bed/Bath/Sqft:</b> " + str(entry['bedroom']) + "/" + str(
+                                bed_bath_sqft = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom']) + "/" + str(entry["summary_Super_Area"])
                                 popup_content = f"""
                                                  <p><b>{title}</b></p><p><b>Bed/Bath/Sqft: </b>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>Id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
@@ -175,13 +175,13 @@ def main():
 
                         else:
                             if entry["summary_Super_Area"] == None:
-                                bed_bath = "<b>Bed/Bath:</b> " + str(entry['bedroom']) + "/" + str(
+                                bed_bath = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom'])
                                 popup_content = f"""
                                                  <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p><b>Bed/Bath: </b>{bed_bath}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
                                                  """
                             else:
-                                bed_bath_sqft = "<b>Bed/Bath/Sqft:</b> " + str(entry['bedroom']) + "/" + str(
+                                bed_bath_sqft = str(entry['bedroom']) + "/" + str(
                                     entry['bathroom']) + "/" + str(entry["summary_Super_Area"])
                                 popup_content = f"""
                                                  <p><b>{title}</b></p><p><b>Society Name: </b>{society_name} </p><p><b>Bed/Bath/Sqft: </b>{bed_bath_sqft}</p><p><b>Availability: </b>{availability} <b>Rent: </b>{rent}, <b>Advance: </b>{advance} </p><p><b>id: </b>{listing_id}</p><a href={url_link} target="_blank"><b>Listing URL</b></a>
