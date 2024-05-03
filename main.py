@@ -10,6 +10,8 @@ import time
 import sys
 import pandas as pd
 from datetime import datetime
+import matplotlib.pyplot as plt
+from io import BytesIO
 
 # Load data from the JSON file
 
