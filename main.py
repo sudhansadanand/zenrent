@@ -51,6 +51,103 @@ def main():
     # st.title("Chennai Rental Listings from Magic Bricks")
     tab_search, tab_insights = st.tabs(['Search', 'Insights'])
 
+    with tab_insights:
+        json_data = load_json_data('mb_stats.json')
+        df = pd.DataFrame(json_data["pincode_stats"])
+        date = json_data["date"]
+        date_obj = datetime.strptime(date, "%d-%m-%Y")
+        formatted_date = date_obj.strftime("%B %d, %Y")
+        summary = json_data["total_stats"]
+        listings_count = summary["total_count"]
+        st.text("Total Listings as of {} is: {}".format(formatted_date,listings_count))
+        #plt.figure(figsize=(6, 6))
+
+        #Show number of units available
+        # Define the categories and their corresponding values
+        categories = ['1 Bed', '2 Bed', '3 Bed', "4+ Bed"]
+        values = [summary["1"]["count"],summary["2"]["count"],summary["3"]["count"],summary["4+"]["count"]]  # Sample values for each category
+
+        #width = st.sidebar.slider("plot width", 0.1, 25., 3.)
+        #height = st.sidebar.slider("plot height", 0.1, 25., 1.)
+
+        # Create a pie chart using Matplotlib
+        fig, ax = plt.subplots(figsize=(5.46, 5.46))
+        wedges, texts, autotexts = ax.pie(values, labels=categories, autopct='%1.1f%%', startangle=90, textprops=dict(color="w"))
+
+        # Add absolute values to the pie chart
+        for i, (text, autotext) in enumerate(zip(texts, autotexts)):
+            autotext.set_text(f"{categories[i]} \n {values[i]} \n ({autotext.get_text()})")
+
+
+        ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle
+
+        #bar_data = pd.DataFrame([values], columns=categories)
+        # Create a bar graph
+        #st.pyplot(fig)
+        buf = BytesIO()
+        fig.savefig(buf, format="png")
+        st.image(buf)
+
+        nbed = st.slider("Bedrooms", 1, 4, 1)
+        nbed_stats = {}
+        for pc,values in json_data["pincode_stats"].items():
+            for bedtype,stats in values.items():
+                if bedtype == str(nbed):
+                    nbed_stat = {}
+                    nbed_stat.update(stats)
+                    nbed_stats[pc] = nbed_stat
+                else:
+                    if bedtype == "4+" and str(nbed) == "4":
+                        nbed_stat = {}
+                        nbed_stat.update(stats)
+                        nbed_stats[pc] = nbed_stat
+
+        #st.text(json.dumps(nbed_stats,indent=4))
+        # Add labels and title
+        """st.xlabel('Bedrooms')
+        st.ylabel('Number of Listings')
+        st.title('Number of listings')"""
+
+        # Show the plot
+        #plt.show()
+        df = pd.DataFrame(nbed_stats).T  # Transpose the DataFrame to have records as rows
+
+        df_sorted = df.sort_values(by='avg', ascending=False)
+        df_display = df_sorted.drop(columns=['count'])
+        # Display the DataFrame
+        #st.dataframe(df)
+        st.bar_chart(df_display["avg"])
+
+        #Histogram
+        fig, ax = plt.subplots(figsize=(5.46,5.46))
+        averages = df['avg']
+        n, bins, patches = ax.hist(averages, bins=10, color='skyblue', edgecolor='black')
+        ax.set_xlabel('Average')
+        ax.set_ylabel('Frequency')
+        ax.set_title('Histogram of Average Values')
+
+        # Add count values on top of each bar
+        for i, count in enumerate(n):
+            ax.text(bins[i] + 0.5 * (bins[i + 1] - bins[i]), count, str(int(count)), ha='center', va='bottom')
+
+        # Display the plot using Streamlit
+        buf = BytesIO()
+        fig.savefig(buf, format="png")
+        st.image(buf)
+
+        #st.pyplot(fig)
+
+        st.dataframe(df_display)
+
+        fig, ax = plt.subplots()
+        ax.scatter(df['min'], df['max'], color='skyblue', edgecolor='black')
+        ax.set_xlabel('Min')
+        ax.set_ylabel('Max')
+        ax.set_title('Scatter Plot of Min vs Max')
+
+        # Display the plot using Streamlit
+        st.pyplot(fig)
+
     with tab_search:
         with st.expander("Filter Listings", expanded=True):
             st.header("Search Listings")
