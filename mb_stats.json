@@ -1,22 +1,22 @@
 {
     "total_stats": {
         "1": {
-            "count": 108,
+            "count": 104,
             "min": 4500,
             "max": 60000,
-            "avg": 11797
+            "avg": 11924
         },
         "2": {
-            "count": 480,
+            "count": 472,
             "min": 6000,
             "max": 50000,
-            "avg": 17469
+            "avg": 17502
         },
         "3": {
-            "count": 320,
+            "count": 311,
             "min": 6000,
             "max": 260000,
-            "avg": 51538
+            "avg": 51682
         },
         "4+": {
             "count": 122,
@@ -24,7 +24,7 @@
             "max": 600000,
             "avg": 71934
         },
-        "total_count": 969
+        "total_count": 948
     },
     "pincode_stats": {
         "600001": {
@@ -133,10 +133,10 @@
                 "avg": 22875
             },
             "3": {
-                "count": 7,
+                "count": 5,
                 "min": 70000,
-                "max": 100000,
-                "avg": 84428
+                "max": 85000,
+                "avg": 78200
             },
             "4+": {
                 "count": 8,
@@ -144,7 +144,7 @@
                 "max": 600000,
                 "avg": 142500
             },
-            "total_count": 16,
+            "total_count": 14,
             "localities": [
                 "Thousand Lights",
                 "Egmore"
@@ -258,18 +258,12 @@
                 "avg": 8800
             },
             "2": {
-                "count": 3,
+                "count": 2,
                 "min": 17000,
                 "max": 26000,
-                "avg": 20400
+                "avg": 21500
             },
-            "3": {
-                "count": 1,
-                "min": 103000,
-                "max": 103000,
-                "avg": 103000
-            },
-            "total_count": 6,
+            "total_count": 4,
             "localities": [
                 "Nandanam",
                 "Saidapet"
@@ -423,19 +417,13 @@
             ]
         },
         "600024": {
-            "1": {
-                "count": 1,
-                "min": 7200,
-                "max": 7200,
-                "avg": 7200
-            },
             "2": {
                 "count": 4,
                 "min": 13000,
                 "max": 36500,
                 "avg": 20625
             },
-            "total_count": 5,
+            "total_count": 4,
             "localities": [
                 "West Mambalam",
                 "Kodambakkam"
@@ -763,12 +751,12 @@
                 "avg": 20466
             },
             "3": {
-                "count": 5,
+                "count": 4,
                 "min": 25000,
                 "max": 165000,
-                "avg": 76700
+                "avg": 89375
             },
-            "total_count": 11,
+            "total_count": 10,
             "localities": [
                 "Velachery",
                 "Madipakkam"
@@ -855,12 +843,6 @@
             ]
         },
         "600048": {
-            "1": {
-                "count": 1,
-                "min": 13800,
-                "max": 13800,
-                "avg": 13800
-            },
             "2": {
                 "count": 6,
                 "min": 7500,
@@ -873,12 +855,11 @@
                 "max": 40000,
                 "avg": 40000
             },
-            "total_count": 8,
+            "total_count": 7,
             "localities": [
                 "Vandalur",
                 "Perungalathur",
                 "Mudichur",
-                "Grand Southern Trunk Rd",
                 "Mannivakkam",
                 "Ponmar"
             ]
@@ -985,10 +966,10 @@
                 "avg": 13206
             },
             "3": {
-                "count": 6,
+                "count": 5,
                 "min": 16700,
                 "max": 35000,
-                "avg": 22950
+                "avg": 23740
             },
             "4+": {
                 "count": 2,
@@ -996,7 +977,7 @@
                 "max": 45000,
                 "avg": 22500
             },
-            "total_count": 32,
+            "total_count": 31,
             "localities": [
                 "Oragadam",
                 "Ambattur"
@@ -1035,10 +1016,10 @@
                 "avg": 16799
             },
             "3": {
-                "count": 9,
+                "count": 8,
                 "min": 12500,
                 "max": 55000,
-                "avg": 30600
+                "avg": 31550
             },
             "4+": {
                 "count": 2,
@@ -1046,7 +1027,7 @@
                 "max": 65000,
                 "avg": 32500
             },
-            "total_count": 38,
+            "total_count": 37,
             "localities": [
                 "Senneer Kuppam",
                 "Iyyappanthangal",
@@ -1099,10 +1080,10 @@
                 "avg": 9250
             },
             "2": {
-                "count": 6,
+                "count": 5,
                 "min": 10000,
                 "max": 15000,
-                "avg": 12633
+                "avg": 12760
             },
             "3": {
                 "count": 1,
@@ -1110,7 +1091,7 @@
                 "max": 18800,
                 "avg": 18800
             },
-            "total_count": 9,
+            "total_count": 8,
             "localities": [
                 "Tambaram",
                 "Irumbuliyur"
@@ -1364,10 +1345,10 @@
         },
         "600077": {
             "1": {
-                "count": 2,
-                "min": 7000,
+                "count": 1,
+                "min": 8300,
                 "max": 8300,
-                "avg": 7650
+                "avg": 8300
             },
             "2": {
                 "count": 4,
@@ -1381,7 +1362,7 @@
                 "max": 22000,
                 "avg": 22000
             },
-            "total_count": 7,
+            "total_count": 6,
             "localities": [
                 "Thiruverkadu",
                 "Poonamallee",
@@ -1657,18 +1638,18 @@
                 "avg": 9066
             },
             "2": {
-                "count": 12,
+                "count": 11,
                 "min": 9100,
                 "max": 22500,
-                "avg": 15583
+                "avg": 15727
             },
             "3": {
-                "count": 4,
+                "count": 3,
                 "min": 15000,
-                "max": 35000,
-                "avg": 26825
+                "max": 30000,
+                "avg": 24100
             },
-            "total_count": 19,
+            "total_count": 17,
             "localities": [
                 "Madipakkam",
                 "St.Thomas Mount-cum-Pallavaram"
@@ -1876,16 +1857,16 @@
                 "avg": 15000
             },
             "2": {
-                "count": 12,
-                "min": 11000,
+                "count": 11,
+                "min": 12000,
                 "max": 37000,
-                "avg": 20958
+                "avg": 21863
             },
             "3": {
-                "count": 8,
+                "count": 7,
                 "min": 16000,
                 "max": 45000,
-                "avg": 26250
+                "avg": 26857
             },
             "4+": {
                 "count": 4,
@@ -1893,7 +1874,7 @@
                 "max": 55000,
                 "avg": 23750
             },
-            "total_count": 24,
+            "total_count": 22,
             "localities": [
                 "Karapakkam",
                 "Pallikaranai",
@@ -1959,12 +1940,12 @@
                 "avg": 19083
             },
             "3": {
-                "count": 2,
-                "min": 16000,
+                "count": 1,
+                "min": 40000,
                 "max": 40000,
-                "avg": 28000
+                "avg": 40000
             },
-            "total_count": 8,
+            "total_count": 7,
             "localities": [
                 "Arumbakkam",
                 "Balavinayagar Nagar"
@@ -2123,16 +2104,16 @@
                 "avg": 11533
             },
             "2": {
-                "count": 8,
+                "count": 7,
                 "min": 16400,
                 "max": 40000,
-                "avg": 25050
+                "avg": 24914
             },
             "3": {
-                "count": 17,
+                "count": 18,
                 "min": 25100,
                 "max": 60000,
-                "avg": 41176
+                "avg": 41666
             },
             "4+": {
                 "count": 8,
@@ -2210,10 +2191,10 @@
                 "avg": 17500
             },
             "2": {
-                "count": 4,
+                "count": 3,
                 "min": 15000,
                 "max": 33800,
-                "avg": 24450
+                "avg": 24933
             },
             "3": {
                 "count": 1,
@@ -2221,20 +2202,19 @@
                 "max": 15000,
                 "avg": 15000
             },
-            "total_count": 6,
+            "total_count": 5,
             "localities": [
                 "Manapakkam",
                 "Mugalivakkam",
-                "Ramapuram",
                 "Tharapakkam"
             ]
         },
         "600126": {
             "2": {
-                "count": 10,
-                "min": 8000,
+                "count": 9,
+                "min": 8250,
                 "max": 20000,
-                "avg": 12415
+                "avg": 12905
             },
             "3": {
                 "count": 3,
@@ -2242,7 +2222,7 @@
                 "max": 27000,
                 "avg": 18000
             },
-            "total_count": 13,
+            "total_count": 12,
             "localities": [
                 "Selaiyur",
                 "Sithalapakkam",
@@ -2287,16 +2267,9 @@
                 "max": 40000,
                 "avg": 23900
             },
-            "2": {
-                "count": 1,
-                "min": 12000,
-                "max": 12000,
-                "avg": 12000
-            },
-            "total_count": 3,
+            "total_count": 2,
             "localities": [
-                "Kovilambakkam",
-                "Pallikaranai"
+                "Kovilambakkam"
             ]
         },
         "600130": {
@@ -2313,10 +2286,10 @@
                 "avg": 27516
             },
             "3": {
-                "count": 10,
+                "count": 9,
                 "min": 6000,
                 "max": 125000,
-                "avg": 48460
+                "avg": 51066
             },
             "4+": {
                 "count": 10,
@@ -2324,14 +2297,13 @@
                 "max": 130000,
                 "avg": 41500
             },
-            "total_count": 22,
+            "total_count": 21,
             "localities": [
                 "HIRANANDANI BRIDGEWOOD",
                 "Thazhambur",
                 "Navalur",
                 "Egattur",
-                "Ottiambakkam",
-                "Tamil Nadu 600130"
+                "Ottiambakkam"
             ]
         },
         "601204": {
@@ -2579,12 +2551,6 @@
             ]
         },
         "603203": {
-            "1": {
-                "count": 1,
-                "min": 6000,
-                "max": 6000,
-                "avg": 6000
-            },
             "2": {
                 "count": 5,
                 "min": 8200,
@@ -2597,7 +2563,7 @@
                 "max": 35000,
                 "avg": 35000
             },
-            "total_count": 7,
+            "total_count": 6,
             "localities": [
                 "Kattankulathur",
                 "Wilts Street"
@@ -2738,5 +2704,5 @@
             ]
         }
     },
-    "date": "06-05-2024"
+    "date": "07-05-2024"
 }
