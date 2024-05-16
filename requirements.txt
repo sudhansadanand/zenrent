@@ -3,3 +3,4 @@ folium==0.15.1
 openai==1.6.0
 geocoder==1.38.1
 matplotlib==3.8.4
+gunicorn==22.0.0
