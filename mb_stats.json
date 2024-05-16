@@ -1,30 +1,30 @@
 {
     "total_stats": {
         "1": {
-            "count": 88,
+            "count": 87,
             "min": 4500,
             "max": 60000,
-            "avg": 12092
+            "avg": 11771
         },
         "2": {
-            "count": 397,
+            "count": 390,
             "min": 6500,
             "max": 50000,
-            "avg": 17732
+            "avg": 17722
         },
         "3": {
-            "count": 278,
+            "count": 277,
             "min": 6000,
             "max": 260000,
-            "avg": 52604
+            "avg": 52740
         },
         "4+": {
-            "count": 118,
+            "count": 122,
             "min": 27000,
             "max": 600000,
-            "avg": 73440
+            "avg": 79434
         },
-        "total_count": 822
+        "total_count": 815
     },
     "pincode_stats": {
         "600001": {
@@ -132,10 +132,10 @@
                 "avg": 25166
             },
             "3": {
-                "count": 6,
+                "count": 7,
                 "min": 70000,
                 "max": 100000,
-                "avg": 81833
+                "avg": 84428
             },
             "4+": {
                 "count": 6,
@@ -143,7 +143,7 @@
                 "max": 600000,
                 "avg": 175000
             },
-            "total_count": 13,
+            "total_count": 14,
             "localities": [
                 "Thousand Lights",
                 "Egmore"
@@ -318,12 +318,12 @@
                 "avg": 112000
             },
             "4+": {
-                "count": 6,
+                "count": 8,
                 "min": 200000,
-                "max": 370000,
-                "avg": 145000
+                "max": 550000,
+                "avg": 177500
             },
-            "total_count": 9,
+            "total_count": 10,
             "localities": [
                 "Alwarpet",
                 "Teynampet"
@@ -413,18 +413,6 @@
             "localities": [
                 "West Mambalam",
                 "Kodambakkam"
-            ]
-        },
-        "600025": {
-            "2": {
-                "count": 1,
-                "min": 16000,
-                "max": 16000,
-                "avg": 16000
-            },
-            "total_count": 1,
-            "localities": [
-                "Saidapet"
             ]
         },
         "600026": {
@@ -585,12 +573,12 @@
                 "avg": 83700
             },
             "4+": {
-                "count": 8,
+                "count": 10,
                 "min": 80000,
                 "max": 600000,
-                "avg": 166250
+                "avg": 180500
             },
-            "total_count": 18,
+            "total_count": 19,
             "localities": [
                 "Nungambakkam"
             ]
@@ -610,10 +598,10 @@
         },
         "600037": {
             "2": {
-                "count": 2,
+                "count": 1,
                 "min": 9000,
-                "max": 27900,
-                "avg": 18450
+                "max": 9000,
+                "avg": 9000
             },
             "3": {
                 "count": 2,
@@ -621,7 +609,7 @@
                 "max": 23000,
                 "avg": 21500
             },
-            "total_count": 4,
+            "total_count": 3,
             "localities": [
                 "Mogappair"
             ]
@@ -797,12 +785,12 @@
                 "avg": 11750
             },
             "2": {
-                "count": 2,
+                "count": 1,
                 "min": 8500,
-                "max": 10000,
-                "avg": 9250
+                "max": 8500,
+                "avg": 8500
             },
-            "total_count": 4,
+            "total_count": 3,
             "localities": [
                 "Tambaram"
             ]
@@ -918,10 +906,10 @@
                 "avg": 7280
             },
             "2": {
-                "count": 15,
+                "count": 14,
                 "min": 9000,
                 "max": 18800,
-                "avg": 13042
+                "avg": 13116
             },
             "3": {
                 "count": 5,
@@ -935,7 +923,7 @@
                 "max": 45000,
                 "avg": 22500
             },
-            "total_count": 26,
+            "total_count": 25,
             "localities": [
                 "Oragadam",
                 "Ambattur"
@@ -1424,16 +1412,9 @@
                 "max": 34000,
                 "avg": 34000
             },
-            "3": {
-                "count": 1,
-                "min": 100000,
-                "max": 100000,
-                "avg": 100000
-            },
-            "total_count": 2,
+            "total_count": 1,
             "localities": [
-                "Purasaiwakkam",
-                "Egmore"
+                "Purasaiwakkam"
             ]
         },
         "600085": {
@@ -1783,10 +1764,10 @@
                 "avg": 15000
             },
             "2": {
-                "count": 9,
+                "count": 10,
                 "min": 12000,
                 "max": 37000,
-                "avg": 23677
+                "avg": 22970
             },
             "3": {
                 "count": 6,
@@ -1800,7 +1781,7 @@
                 "max": 55000,
                 "avg": 23750
             },
-            "total_count": 19,
+            "total_count": 20,
             "localities": [
                 "Karapakkam",
                 "Pallikaranai",
@@ -1884,16 +1865,10 @@
                 "max": 22000,
                 "avg": 14600
             },
-            "2": {
-                "count": 1,
-                "min": 18000,
-                "max": 18000,
-                "avg": 18000
-            },
-            "total_count": 3,
+            "total_count": 2,
             "localities": [
-                "Koyambedu",
-                "Nerkundram"
+                "Nerkundram",
+                "Koyambedu"
             ]
         },
         "600109": {
@@ -2167,12 +2142,12 @@
         },
         "600129": {
             "1": {
-                "count": 2,
+                "count": 1,
                 "min": 7800,
-                "max": 40000,
-                "avg": 23900
+                "max": 7800,
+                "avg": 7800
             },
-            "total_count": 2,
+            "total_count": 1,
             "localities": [
                 "Kovilambakkam"
             ]
@@ -2342,16 +2317,16 @@
                 "avg": 14000
             },
             "2": {
-                "count": 10,
+                "count": 9,
                 "min": 9000,
                 "max": 40000,
-                "avg": 20910
+                "avg": 21622
             },
             "3": {
-                "count": 19,
+                "count": 18,
                 "min": 13000,
                 "max": 40000,
-                "avg": 24963
+                "avg": 25516
             },
             "4+": {
                 "count": 6,
@@ -2359,7 +2334,7 @@
                 "max": 85000,
                 "avg": 40833
             },
-            "total_count": 34,
+            "total_count": 32,
             "localities": [
                 "Egattur",
                 "Padur",
@@ -2443,10 +2418,10 @@
         },
         "603203": {
             "2": {
-                "count": 5,
-                "min": 8200,
+                "count": 4,
+                "min": 11000,
                 "max": 27000,
-                "avg": 16240
+                "avg": 18250
             },
             "3": {
                 "count": 1,
@@ -2454,7 +2429,7 @@
                 "max": 35000,
                 "avg": 35000
             },
-            "total_count": 6,
+            "total_count": 5,
             "localities": [
                 "Kattankulathur",
                 "Wilts Street"
@@ -2523,10 +2498,10 @@
         },
         "603306": {
             "2": {
-                "count": 4,
+                "count": 3,
                 "min": 10000,
-                "max": 38000,
-                "avg": 22000
+                "max": 20000,
+                "avg": 16666
             },
             "3": {
                 "count": 2,
@@ -2534,7 +2509,7 @@
                 "max": 40000,
                 "avg": 28000
             },
-            "total_count": 6,
+            "total_count": 5,
             "localities": [
                 "Maduranthakam"
             ]
@@ -2588,5 +2563,5 @@
             ]
         }
     },
-    "date": "15-05-2024"
+    "date": "16-05-2024"
 }
